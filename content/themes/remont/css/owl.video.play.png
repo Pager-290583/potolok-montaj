@@ -1,0 +1,3823 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru">
+
+	
+	<head>
+	
+
+		<!-- Meta information (content-type + mobile mod) -->
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<meta name="format-detection" content="telephone=no" />
+		
+		
+		<!-- Favicon -->
+		<link rel="icon" href="http://am24.by/wp-content/themes/remont/favicon.ico" type="image/x-icon" />
+		<link rel="shortcut icon" href="http://am24.by/wp-content/themes/remont/favicon.ico" type="image/x-icon" />
+		
+		
+		<!-- Fonts -->
+		<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;subset=cyrillic" rel="stylesheet">
+		
+		
+		<!-- Inline CSS styles -->
+		<link rel="stylesheet" type="text/css" href="http://am24.by/wp-content/themes/remont/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="http://am24.by/wp-content/themes/remont/css/adaptive.css" />
+		<link rel="stylesheet" type="text/css" href="http://am24.by/wp-content/themes/remont/css/jquery.fancybox.css" />
+		<link rel="stylesheet" type="text/css" href="http://am24.by/wp-content/themes/remont/css/jquery.formstyler.css" />
+		<link rel="stylesheet" type="text/css" href="http://am24.by/wp-content/themes/remont/css/owl.carousel.css" />
+
+		
+		<!-- OGP -->
+		<meta property="og:title" content="Ремонт квартир в Минске" />
+		<meta property="og:description" content="Комплексный ремонт квартир с гарантией сроков и поэтапной оплатой" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="http://am24.by" />
+		<meta property="og:image" content="http://am24.by/wp-content/themes/remont/images/ogp_logo.jpg" />
+
+		
+		<!-- Page title -->
+		<title>Страница не найдена | Ремонт квартир в Минске</title>
+	    
+		<!-- Yandex.Metrika counter -->
+		<script type="text/javascript" >
+   		(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   		m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   		(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   		ym(51990134, "init", {
+        id:51990134,
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   		});
+		</script>
+		<noscript><div><img src="https://mc.yandex.ru/watch/51990134" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+		<!-- /Yandex.Metrika counter -->
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132894903-1"></script>
+		<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+		gtag('config', 'UA-132894903-1');
+		</script>
+
+  
+</head>
+
+
+<body id="main">
+<div id="global-wrapper">
+	
+	<!-- Start: Top -->
+	
+	<section id="top">
+	<div class="centered si-justify">
+		
+		<!-- Logo -->
+		<a href="/" class="logo">
+			<strong>AM<font color="feca00">24</font></strong>
+			КОМПЛЕКСНЫЙ РЕМОНТ КВАРТИР
+		</a>
+		
+		<!-- Phone block -->
+		<div class="si-phone">
+			
+			<a href="tel:+375291852795" class="phone-link">+375 /29/ 185-27-95</a>
+			
+			<a href="tel:+375292614583" class="phone-link">+375 /29/ 261-45-83</a>
+			
+			<a href="#" class="open-phone-modal modal-link buzz-inside" data-extra="1">
+				
+				<span class="phone-icon-wrapper"><svg class="svg-icon phone-icon buzz-icon" role="img"><use xlink:href="#phone-icon"></use></svg></span>
+				<span class="text">ЗАКАЗАТЬ ЗВОНОК</span>
+			</a>
+			
+		</div>
+	
+	</div>
+	</section>
+
+	<!-- End: Top -->	
+	
+	<!-- Start: Header -->
+	
+	<header>
+	<div class="centered">
+		
+		<!-- Content -->
+		<div class="header-content">
+			
+			<!-- Title -->
+			<h1>
+				
+				РЕМОНТ КВАРТИР  <br />
+				ПОД КЛЮЧ В МИНСКЕ
+				
+				<em>
+					От 120 BYN/м<sup>2</sup>, с прозрачной сметой и поэтапной оплатой
+					<br /><br />
+					При заказе ремонта вы получаете <br />
+					дизайн-проект в подарок  <br />
+					
+				</em>
+				
+			</h1>
+			
+			<!-- Button -->
+			<div class="header-button-wrapper">
+			
+		
+				
+				<div class="big-button-wrapper">
+					
+					<div class="button-wrapper pulse-button">
+						<a href="#" class="button wide open-calc-modal">РАССЧИТАТЬ СТОИМОСТЬ РЕМОНТА</a>
+					</div>
+					
+					<div class="button-description">Получите предварательную смету уже сегодня</div>
+					
+				</div>
+			
+			</div>
+			
+		</div>
+		
+		<!-- Image -->
+		<img src="http://am24.by/wp-content/themes/remont/images/header-image.png" alt="" class="header-image" />
+		
+	</div>
+	</header>
+	
+	<!-- End: Header -->
+	
+	
+	<!-- Start: USP -->
+	
+	<section id="usp">
+	<div class="centered">
+		
+		<div class="usp-wrapper si-clear">
+			
+			<!-- Col -->
+			<div class="usp-col image-col si-clear">
+				
+				<img src="http://am24.by/wp-content/themes/remont/images/usp-image.png" alt="" class="usp-image" />
+				
+			</div>
+					
+			<!-- Col -->
+			<div class="usp-col text-col">
+				
+				<!-- Title -->
+				<h2>
+					ТРОЙНАЯ ЮРИДИЧЕСКАЯ ЗАЩИТА ОТ ОБМАНА
+				</h2>
+				
+				А также ведение документации, предоставление и подписание актов выполненных работ
+				
+				<!-- Items -->
+				<div class="usp">
+					
+					<!-- Single -->
+					<div class="usp-item check-inside si-clear">
+						
+						<!-- Check -->
+						<div class="check-wrapper usp-check-wrapper"></div>
+						
+						<h3>Гарантия сроков</h3>
+						
+						Сроки указаны в договоре. За каждый день просрочки возвращаем вам 0,1% от стоимости работ
+						
+					</div>
+									
+					<!-- Single -->
+					<div class="usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper usp-check-wrapper"></div>
+						
+						<h3>Фиксированная цена</h3>
+						
+						Стоимость работ прописывается в договоре и остаётся неизменной до окончания работ
+						
+					</div>
+									
+					<!-- Single -->
+					<div class="usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper usp-check-wrapper"></div>
+						
+						<h3>Гарантия 2 года </h3>
+						
+						2 года полной гарантии на выполненные работы и материалы, прописанные в договоре. В случае обнаружения проблемы, приедем и бесплатно исправим.
+						
+					</div>
+					
+				</div>
+				
+			</div>
+			
+		</div>
+		
+	</div>
+	</section>
+	
+	<!-- End: USP -->
+
+	
+	<!-- Start: Works -->
+	
+	<div class="clear"></div>
+	
+	
+	<section id="works">
+	<div class="centered">
+	
+		<!-- Title -->
+		<h2 class="text-align-center">
+		
+			ПОСМОТРИТЕ ВЫПОЛНЕННЫЕ РАБОТЫ
+		
+		</h2>
+		
+		<!-- Tabs -->
+		<div class="tabs-wrapper works-tabs-wrapper">
+		<div class="tabs works-tabs">
+		
+					<!-- Single -->
+			<div class="tab-item">Дизайнерский ремонт</div>
+					<!-- Single -->
+			<div class="tab-item">Капитальный ремонт</div>
+					<!-- Single -->
+			<div class="tab-item">Черновой ремонт</div>
+				
+		</div>
+		</div>
+		
+		<!-- Tabs content -->
+		<div class="tabs-content">
+		
+				
+		
+			<!-- Single -->
+			<div class="tab-content">
+					
+				<!-- Slider -->
+				<div class="single-slider-wrapper">
+				<div class="single-slider works-slider">
+				
+								
+					<!-- Single -->
+					<div class="single-slider-item si-justify">
+						
+						<!-- Media -->
+						<div class="single-slider-media-wrapper">
+						<div class="single-slider-media">
+						
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/248-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-1">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/248-1.jpg&amp;w=565&amp;h=380" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/249-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-1">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/249-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/250-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-1">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/250-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/251-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-1">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/251-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+						
+						</div>
+						</div>
+						
+						<!-- Content -->
+						<div class="single-slider-content">
+							
+							<!-- Top -->
+							<div class="single-slider-content-top">
+								
+								<!-- Title -->
+								<div class="single-slider-content-top-title">
+									
+																		<strong>3-х комнатная квартира</strong>
+																											
+								</div>
+							
+							</div>
+							
+													
+							<!-- Stats -->
+							<div class="single-slider-content-stats si-justify">
+							
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Площадь:</strong>
+									96М<sup>2</sup>									
+								</div>
+								
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Срок:</strong>
+									2,5 МЕСЯЦА									
+								</div>
+								
+							
+							</div>
+							
+												
+													
+						</div>
+						
+					</div>
+				
+								
+					<!-- Single -->
+					<div class="single-slider-item si-justify">
+						
+						<!-- Media -->
+						<div class="single-slider-media-wrapper">
+						<div class="single-slider-media">
+						
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/99-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-2">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/99-1.jpg&amp;w=565&amp;h=380" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/101-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-2">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/101-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/103-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-2">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/103-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/235-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-2">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/235-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+						
+						</div>
+						</div>
+						
+						<!-- Content -->
+						<div class="single-slider-content">
+							
+							<!-- Top -->
+							<div class="single-slider-content-top">
+								
+								<!-- Title -->
+								<div class="single-slider-content-top-title">
+									
+																		<strong>3-х комнатная квартира</strong>
+																											
+								</div>
+							
+							</div>
+							
+													
+							<!-- Stats -->
+							<div class="single-slider-content-stats si-justify">
+							
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Площадь:</strong>
+									84М<sup>2</sup>									
+								</div>
+								
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Срок:</strong>
+									2,5 МЕСЯЦА									
+								</div>
+								
+							
+							</div>
+							
+												
+													
+						</div>
+						
+					</div>
+				
+								
+					<!-- Single -->
+					<div class="single-slider-item si-justify">
+						
+						<!-- Media -->
+						<div class="single-slider-media-wrapper">
+						<div class="single-slider-media">
+						
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/112-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-3">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/112-1.jpg&amp;w=565&amp;h=380" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/113-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-3">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/113-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/115-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-3">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/115-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/201-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-3">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/201-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+						
+						</div>
+						</div>
+						
+						<!-- Content -->
+						<div class="single-slider-content">
+							
+							<!-- Top -->
+							<div class="single-slider-content-top">
+								
+								<!-- Title -->
+								<div class="single-slider-content-top-title">
+									
+																		<strong>2-х комнатная квартира</strong>
+																											
+								</div>
+							
+							</div>
+							
+													
+							<!-- Stats -->
+							<div class="single-slider-content-stats si-justify">
+							
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Площадь:</strong>
+									62М<sup>2</sup>									
+								</div>
+								
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Срок:</strong>
+									2 МЕСЯЦА									
+								</div>
+								
+							
+							</div>
+							
+												
+													
+						</div>
+						
+					</div>
+				
+								
+					<!-- Single -->
+					<div class="single-slider-item si-justify">
+						
+						<!-- Media -->
+						<div class="single-slider-media-wrapper">
+						<div class="single-slider-media">
+						
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/0301-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-4">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/0301-1.jpg&amp;w=565&amp;h=380" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/0302-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-4">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/0302-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/0303-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-4">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/0303-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/0304-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-1-4">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/0304-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+						
+						</div>
+						</div>
+						
+						<!-- Content -->
+						<div class="single-slider-content">
+							
+							<!-- Top -->
+							<div class="single-slider-content-top">
+								
+								<!-- Title -->
+								<div class="single-slider-content-top-title">
+									
+																		<strong>2-х комнатная квартира</strong>
+																											
+								</div>
+							
+							</div>
+							
+													
+							<!-- Stats -->
+							<div class="single-slider-content-stats si-justify">
+							
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Площадь:</strong>
+									68М<sup>2</sup>									
+								</div>
+								
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Срок:</strong>
+									2,5 МЕСЯЦА									
+								</div>
+								
+							
+							</div>
+							
+												
+													
+						</div>
+						
+					</div>
+				
+								
+				</div>
+				</div>
+				
+			</div>
+						
+		
+				
+		
+			<!-- Single -->
+			<div class="tab-content">
+					
+				<!-- Slider -->
+				<div class="single-slider-wrapper">
+				<div class="single-slider works-slider">
+				
+								
+					<!-- Single -->
+					<div class="single-slider-item si-justify">
+						
+						<!-- Media -->
+						<div class="single-slider-media-wrapper">
+						<div class="single-slider-media">
+						
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-2386_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-1">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-2386_0x1024_32c.jpg&amp;w=565&amp;h=380" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-2387_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-1">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-2387_0x1024_32c.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-2409_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-1">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-2409_0x1024_32c.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-2436_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-1">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-2436_0x1024_32c.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+						
+						</div>
+						</div>
+						
+						<!-- Content -->
+						<div class="single-slider-content">
+							
+							<!-- Top -->
+							<div class="single-slider-content-top">
+								
+								<!-- Title -->
+								<div class="single-slider-content-top-title">
+									
+																		<strong>2-х комнатная квартира</strong>
+																											
+								</div>
+							
+							</div>
+							
+													
+							<!-- Stats -->
+							<div class="single-slider-content-stats si-justify">
+							
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Площадь:</strong>
+									65М<sup>2</sup>									
+								</div>
+								
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Срок:</strong>
+									2 МЕСЯЦА									
+								</div>
+								
+							
+							</div>
+							
+												
+													
+						</div>
+						
+					</div>
+				
+								
+					<!-- Single -->
+					<div class="single-slider-item si-justify">
+						
+						<!-- Media -->
+						<div class="single-slider-media-wrapper">
+						<div class="single-slider-media">
+						
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-0858_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-2">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-0858_0x1024_32c.jpg&amp;w=565&amp;h=380" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-0865_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-2">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-0865_0x1024_32c.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-0923_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-2">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-0923_0x1024_32c.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-0954_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-2">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-0954_0x1024_32c.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+						
+						</div>
+						</div>
+						
+						<!-- Content -->
+						<div class="single-slider-content">
+							
+							<!-- Top -->
+							<div class="single-slider-content-top">
+								
+								<!-- Title -->
+								<div class="single-slider-content-top-title">
+									
+																		<strong>3-х комнатная квартира</strong>
+																											
+								</div>
+							
+							</div>
+							
+													
+							<!-- Stats -->
+							<div class="single-slider-content-stats si-justify">
+							
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Площадь:</strong>
+									84М<sup>2</sup>									
+								</div>
+								
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Срок:</strong>
+									2,8 МЕСЯЦА									
+								</div>
+								
+							
+							</div>
+							
+												
+													
+						</div>
+						
+					</div>
+				
+								
+					<!-- Single -->
+					<div class="single-slider-item si-justify">
+						
+						<!-- Media -->
+						<div class="single-slider-media-wrapper">
+						<div class="single-slider-media">
+						
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-3325_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-3">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-3325_0x1024_32c.jpg&amp;w=565&amp;h=380" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-3327_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-3">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-3327_0x1024_32c.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-3363_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-3">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-3363_0x1024_32c.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-3381_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-3">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-3381_0x1024_32c.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+						
+						</div>
+						</div>
+						
+						<!-- Content -->
+						<div class="single-slider-content">
+							
+							<!-- Top -->
+							<div class="single-slider-content-top">
+								
+								<!-- Title -->
+								<div class="single-slider-content-top-title">
+									
+																		<strong>1 комнатная квартира</strong>
+																											
+								</div>
+							
+							</div>
+							
+													
+							<!-- Stats -->
+							<div class="single-slider-content-stats si-justify">
+							
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Площадь:</strong>
+									42М<sup>2</sup>									
+								</div>
+								
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Срок:</strong>
+									1,5 МЕСЯЦА									
+								</div>
+								
+							
+							</div>
+							
+												
+													
+						</div>
+						
+					</div>
+				
+								
+					<!-- Single -->
+					<div class="single-slider-item si-justify">
+						
+						<!-- Media -->
+						<div class="single-slider-media-wrapper">
+						<div class="single-slider-media">
+						
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-2289-0x1024-32c_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-4">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-2289-0x1024-32c_0x1024_32c.jpg&amp;w=565&amp;h=380" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-2307_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-4">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-2307_0x1024_32c.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-2347_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-4">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-2347_0x1024_32c.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2020/01/img-2389_0x1024_32c.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-2-4">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2020/01/img-2389_0x1024_32c.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+						
+						</div>
+						</div>
+						
+						<!-- Content -->
+						<div class="single-slider-content">
+							
+							<!-- Top -->
+							<div class="single-slider-content-top">
+								
+								<!-- Title -->
+								<div class="single-slider-content-top-title">
+									
+																		<strong>2-х комнатная квартира</strong>
+																											
+								</div>
+							
+							</div>
+							
+													
+							<!-- Stats -->
+							<div class="single-slider-content-stats si-justify">
+							
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Площадь:</strong>
+									64М<sup>2</sup>									
+								</div>
+								
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Срок:</strong>
+									2,5 МЕСЯЦА									
+								</div>
+								
+							
+							</div>
+							
+												
+													
+						</div>
+						
+					</div>
+				
+								
+				</div>
+				</div>
+				
+			</div>
+						
+		
+				
+		
+			<!-- Single -->
+			<div class="tab-content">
+					
+				<!-- Slider -->
+				<div class="single-slider-wrapper">
+				<div class="single-slider works-slider">
+				
+								
+					<!-- Single -->
+					<div class="single-slider-item si-justify">
+						
+						<!-- Media -->
+						<div class="single-slider-media-wrapper">
+						<div class="single-slider-media">
+						
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2019/01/1-9.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-3-1">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/01/1-9.jpg&amp;w=565&amp;h=380" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2019/01/13-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-3-1">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/01/13-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2019/01/15-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-3-1">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/01/15-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2019/01/16-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-3-1">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/01/16-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+						
+						</div>
+						</div>
+						
+						<!-- Content -->
+						<div class="single-slider-content">
+							
+							<!-- Top -->
+							<div class="single-slider-content-top">
+								
+								<!-- Title -->
+								<div class="single-slider-content-top-title">
+									
+																		<strong>3-х комнатная квартира</strong>
+																											
+								</div>
+							
+							</div>
+							
+													
+							<!-- Stats -->
+							<div class="single-slider-content-stats si-justify">
+							
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Площадь:</strong>
+									72М<sup>2</sup>									
+								</div>
+								
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Срок:</strong>
+									0,5 МЕСЯЦА									
+								</div>
+								
+							
+							</div>
+							
+												
+													
+						</div>
+						
+					</div>
+				
+								
+					<!-- Single -->
+					<div class="single-slider-item si-justify">
+						
+						<!-- Media -->
+						<div class="single-slider-media-wrapper">
+						<div class="single-slider-media">
+						
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2019/01/2-9.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-3-2">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/01/2-9.jpg&amp;w=565&amp;h=380" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2019/01/23-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-3-2">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/01/23-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2019/01/24-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-3-2">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/01/24-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+												
+							<!-- Photo -->
+							<a href="http://am24.by/wp-content/uploads/2019/01/25-1.jpg" class="single-slider-media-item show-zoom" data-fancybox="works-3-2">
+								
+								<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/01/25-1.jpg&amp;w=180&amp;h=120" alt="" class="single-slider-media-item-image" />
+								
+								<span class="photo-overlay"></span>
+								<span class="photo-border"></span>
+								
+								<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+								
+							</a>
+							
+						
+						</div>
+						</div>
+						
+						<!-- Content -->
+						<div class="single-slider-content">
+							
+							<!-- Top -->
+							<div class="single-slider-content-top">
+								
+								<!-- Title -->
+								<div class="single-slider-content-top-title">
+									
+																		<strong>3-х комнатная квартира</strong>
+																											
+								</div>
+							
+							</div>
+							
+													
+							<!-- Stats -->
+							<div class="single-slider-content-stats si-justify">
+							
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Площадь:</strong>
+									68М<sup>2</sup>									
+								</div>
+								
+														
+								<!-- Single -->
+								<div class="single-slider-content-stat">
+									
+									<strong>Срок:</strong>
+									0,5 МЕСЯЦА									
+								</div>
+								
+							
+							</div>
+							
+												
+													
+						</div>
+						
+					</div>
+				
+								
+				</div>
+				</div>
+				
+			</div>
+						
+		
+		
+		</div>
+
+	</div>
+	</section>
+
+	<!-- End: Works -->
+	
+	
+	<!-- Start: Types -->
+	
+	<section id="types">
+	<div class="centered">
+	
+		<!-- Title -->
+		<h2 class="text-align-center">
+		
+			ВЫПОЛНЯЕМ ВСЕ ВИДЫ РЕМОНТА
+		
+		</h2>
+		
+		<!-- Items -->
+		<div class="types">
+			
+			<!-- Single -->
+			<div class="type-item">
+			
+				<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/themes/remont/images/types/1.jpg&amp;w=270&amp;h=390" alt="" class="type-image" />
+				
+				<div class="type-title">Частичный ремонт</div>
+			
+			</div>
+						
+			<!-- Single -->
+			<div class="type-item">
+			
+				<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/themes/remont/images/types/2.jpg&amp;w=270&amp;h=390" alt="" class="type-image" />
+				
+				<div class="type-title">Косметический ремонт</div>
+			
+			</div>
+						
+			<!-- Single -->
+			<div class="type-item">
+			
+				<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/themes/remont/images/types/3.jpg&amp;w=270&amp;h=390" alt="" class="type-image" />
+				
+				<div class="type-title">Капитальный ремонт</div>
+			
+			</div>
+						
+			<!-- Single -->
+			<div class="type-item">
+			
+				<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/themes/remont/images/types/4.jpg&amp;w=270&amp;h=390" alt="" class="type-image" />
+				
+				<div class="type-title">Евроремонт</div>
+			
+			</div>
+			
+		</div>
+	
+	</div>
+	</section>
+
+	<!-- End: Types -->
+	
+	
+	<!-- Start: Page form (1) -->
+	
+	<section id="page-form-1" class="page-form-block">
+	<div class="centered">
+		
+		<!-- Content wrapper -->
+		<div class="page-form-content si-justify">
+			
+			<!-- Left -->
+			<div class="page-form-block-left">
+				
+				<!-- Title -->
+				<div class="page-form-block-title">
+					ПОЛУЧИТЕ <br />
+					ПРЕДСТАВЛЕНИЕ <br />
+					О РЕМОНТЕ В <br />
+					ДЕНЬ ОБРАЩЕНИЯ
+				</div>
+				
+				<!-- USP -->
+				<div class="page-usp-wrapper">
+					
+					<!-- Title -->
+					<div class="page-usp-title">ВЫ ПОЛУЧИТЕ:</div>
+					
+					<!-- Items -->
+					<div class="page-usp">
+						
+						<!-- Single -->
+						<div class="page-usp-item check-inside">
+							
+							<!-- Check -->
+							<div class="check-wrapper page-usp-check-wrapper"></div>
+							
+							Предварительный вариант сметы
+							
+						</div>
+											
+						<!-- Single -->
+						<div class="page-usp-item check-inside">
+							
+							<!-- Check -->
+							<div class="check-wrapper page-usp-check-wrapper"></div>
+							
+							Советы по выбору материалов
+							
+						</div>
+											
+						<!-- Single -->
+						<div class="page-usp-item check-inside">
+							
+							<!-- Check -->
+							<div class="check-wrapper page-usp-check-wrapper"></div>
+							
+							Перечень проверенных поставщиков
+							
+						</div>
+											
+						<!-- Single -->
+						<div class="page-usp-item check-inside">
+							
+							<!-- Check -->
+							<div class="check-wrapper page-usp-check-wrapper"></div>
+							
+							Примерный срок ремонтных работ
+							
+						</div>
+					
+					</div>
+				
+				</div>
+				
+			</div>
+			
+			<!-- Right (form) -->
+			<form action="http://am24.by/wp-content/themes/remont/send.php" method="post" class="send-form page-form" autocomplete="off">
+			<div class="page-form-inner">
+			
+				<!-- Title -->
+				<div class="page-form-title">
+				
+					ОСТАВЬТЕ ЗАЯВКУ
+					<em>и мы вам перезвоним!</em>
+					
+				</div>
+				
+				<!-- Inputs -->
+				<div class="page-inputs-wrapper">
+					
+					<div class="input-wrapper page-input-wrapper si-error-parent">
+						<input type="text" name="client_name" class="client-name input si-error-to-parent" placeholder="Ваше имя" />
+						<svg class="svg-icon form-icon form-icon-user" role="img"><use xlink:href="#form-icon-user"></use></svg>
+					</div>
+					
+					<div class="input-wrapper page-input-wrapper si-error-parent">
+						<input type="tel" name="client_phone" class="client-phone input si-error-to-parent" placeholder="Ваш телефон" />
+						<svg class="svg-icon form-icon form-icon-phone" role="img"><use xlink:href="#form-icon-phone"></use></svg>
+					</div>
+
+					<div class="submit-wrapper page-input-wrapper">
+						<div class="button-wrapper block no-margin pulse-button">
+							<button class="button block submit">ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ</button>
+						</div>
+					</div>
+					
+				</div>
+				
+				<input type="text" name="name" />
+				<input type="hidden" name="send_type" class="send-type" value="3" />
+				<input type="hidden" name="send_extra" class="send-extra" value="1" />
+			
+			</div>
+			</form>
+			
+		</div>
+		
+		<!-- Image -->
+		<img src="http://am24.by/wp-content/themes/remont/images/page-form-image.png" alt="" class="page-form-image i-1">
+	
+	</div>
+	</section>
+
+	<!-- End: Page form (1) -->
+	
+	
+	
+	
+	
+	<!-- Start: Projects -->
+	
+	<section id="projects">
+	<div class="centered">
+	
+		<!-- Title -->
+		<h2 class="text-align-center">
+		
+			ОТ ИДЕИ ДО ГОТОВОГО РЕМОНТА
+		
+		</h2>
+		
+		<div class="after-h2 text-align-center">
+		
+			Ваш ремонт будет один в один, как в дизайн-проекте. Сравните сами. Слева проект, справа готовый ремонт
+		
+		</div>
+		
+		<!-- Slider -->
+		<div class="single-slider-wrapper">
+		<div class="single-slider reviews-slider on-dark-bg">
+		
+				
+			<!-- Single -->
+			<div class="single-slider-project si-justify">
+				
+				<a href="http://am24.by/wp-content/uploads/2019/01/11.jpg" class="single-slider-project-media show-zoom" data-fancybox="projects-1">
+					
+					<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/01/11.jpg&amp;w=470&amp;h=315" alt="" class="single-slider-media-item-image" />
+					
+					<span class="photo-overlay"></span>
+					<span class="photo-border"></span>
+					
+					<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+					
+				</a>
+				
+				<a href="http://am24.by/wp-content/uploads/2019/01/12-2.jpg" class="single-slider-project-media show-zoom" data-fancybox="projects-1">
+					
+					<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/01/12-2.jpg&amp;w=470&amp;h=315" alt="" class="single-slider-media-item-image" />
+					
+					<span class="photo-overlay"></span>
+					<span class="photo-border"></span>
+					
+					<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+					
+				</a>
+
+			</div>
+			
+		
+		</div>
+		</div>
+		
+		
+	</div>
+	</section>
+
+	<!-- End: Projects -->
+	
+	
+	
+	
+	<!-- Start: Design -->
+	
+	<section id="design">
+	<div class="centered">
+	
+		<!-- Title -->
+		<h2 class="text-align-center">
+		
+			ПОСМОТРИТЕ НАШИ ДИЗАЙН-ПРОЕКТЫ
+		
+		</h2>
+
+		
+		<!-- Tabs -->
+		<div class="tabs-wrapper works-tabs-wrapper">
+		<div class="tabs works-tabs">
+			
+					<!-- Single -->
+			<div class="tab-item">Работы 4 квартала 2019 года</div>
+					
+		</div>
+		</div>
+		
+		<!-- Tabs content -->
+		<div class="tabs-content">
+		
+				
+			<!-- Single -->
+			<div class="tab-content">
+					
+				<!-- Slider -->
+				<div class="single-slider-wrapper">
+				<div class="single-slider design-slider">
+				
+								
+					<!-- Single -->
+					<a href="http://am24.by/wp-content/uploads/2019/11/3.jpg" class="single-slider-design-media show-zoom" data-fancybox="design-1">
+							
+						<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/11/3.jpg&amp;w=970&amp;h=450" alt="" class="single-slider-media-item-image" />
+						
+						<span class="photo-overlay"></span>
+						<span class="photo-border"></span>
+						
+						<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+						
+					</a>
+					
+								
+					<!-- Single -->
+					<a href="http://am24.by/wp-content/uploads/2019/11/2.jpg" class="single-slider-design-media show-zoom" data-fancybox="design-1">
+							
+						<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/11/2.jpg&amp;w=970&amp;h=450" alt="" class="single-slider-media-item-image" />
+						
+						<span class="photo-overlay"></span>
+						<span class="photo-border"></span>
+						
+						<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+						
+					</a>
+					
+								
+					<!-- Single -->
+					<a href="http://am24.by/wp-content/uploads/2019/11/5.jpg" class="single-slider-design-media show-zoom" data-fancybox="design-1">
+							
+						<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/11/5.jpg&amp;w=970&amp;h=450" alt="" class="single-slider-media-item-image" />
+						
+						<span class="photo-overlay"></span>
+						<span class="photo-border"></span>
+						
+						<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+						
+					</a>
+					
+								
+					<!-- Single -->
+					<a href="http://am24.by/wp-content/uploads/2019/11/6.jpg" class="single-slider-design-media show-zoom" data-fancybox="design-1">
+							
+						<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/11/6.jpg&amp;w=970&amp;h=450" alt="" class="single-slider-media-item-image" />
+						
+						<span class="photo-overlay"></span>
+						<span class="photo-border"></span>
+						
+						<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+						
+					</a>
+					
+								
+					<!-- Single -->
+					<a href="http://am24.by/wp-content/uploads/2019/11/10.jpg" class="single-slider-design-media show-zoom" data-fancybox="design-1">
+							
+						<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/11/10.jpg&amp;w=970&amp;h=450" alt="" class="single-slider-media-item-image" />
+						
+						<span class="photo-overlay"></span>
+						<span class="photo-border"></span>
+						
+						<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+						
+					</a>
+					
+								
+					<!-- Single -->
+					<a href="http://am24.by/wp-content/uploads/2019/11/7.jpg" class="single-slider-design-media show-zoom" data-fancybox="design-1">
+							
+						<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/11/7.jpg&amp;w=970&amp;h=450" alt="" class="single-slider-media-item-image" />
+						
+						<span class="photo-overlay"></span>
+						<span class="photo-border"></span>
+						
+						<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+						
+					</a>
+					
+								
+					<!-- Single -->
+					<a href="http://am24.by/wp-content/uploads/2019/11/4-1.jpg" class="single-slider-design-media show-zoom" data-fancybox="design-1">
+							
+						<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/11/4-1.jpg&amp;w=970&amp;h=450" alt="" class="single-slider-media-item-image" />
+						
+						<span class="photo-overlay"></span>
+						<span class="photo-border"></span>
+						
+						<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+						
+					</a>
+					
+								
+					<!-- Single -->
+					<a href="http://am24.by/wp-content/uploads/2019/11/9.jpg" class="single-slider-design-media show-zoom" data-fancybox="design-1">
+							
+						<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/11/9.jpg&amp;w=970&amp;h=450" alt="" class="single-slider-media-item-image" />
+						
+						<span class="photo-overlay"></span>
+						<span class="photo-border"></span>
+						
+						<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+						
+					</a>
+					
+								
+					<!-- Single -->
+					<a href="http://am24.by/wp-content/uploads/2019/11/1.jpg" class="single-slider-design-media show-zoom" data-fancybox="design-1">
+							
+						<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/11/1.jpg&amp;w=970&amp;h=450" alt="" class="single-slider-media-item-image" />
+						
+						<span class="photo-overlay"></span>
+						<span class="photo-border"></span>
+						
+						<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+						
+					</a>
+					
+								
+					<!-- Single -->
+					<a href="http://am24.by/wp-content/uploads/2019/11/6-1.jpg" class="single-slider-design-media show-zoom" data-fancybox="design-1">
+							
+						<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/uploads/2019/11/6-1.jpg&amp;w=970&amp;h=450" alt="" class="single-slider-media-item-image" />
+						
+						<span class="photo-overlay"></span>
+						<span class="photo-border"></span>
+						
+						<svg class="svg-icon zoom-icon" role="img"><use xlink:href="#zoom-icon"></use></svg>
+						
+					</a>
+					
+				
+				</div>
+				</div>
+				
+			</div>
+		
+		
+		</div>
+
+	
+	</div>
+	</section>
+
+	<!-- End: Design -->
+	
+	
+	
+	<!-- Start: Page form (2) -->
+	
+	<section id="page-form-2" class="page-form-block">
+	<div class="centered">
+		
+		<!-- Content wrapper -->
+		<div class="page-form-content si-justify">
+			
+			<!-- Left -->
+			<div class="page-form-block-left">
+				
+				<!-- Title -->
+				<div class="page-form-block-title">
+					ПРИ ЗАКАЗЕ РЕМОНТА <br />
+					ВЫ ПОЛУЧАЕТЕ <br />
+					ДИЗАЙН-ПРОЕКТ <br />
+					БЕСПЛАТНО
+				</div>
+				
+				<!-- USP -->
+				<div class="page-usp-wrapper">
+					
+					<!-- Title -->
+					<div class="page-usp-title">В ПРОЕКТ ВХОДИТ:</div>
+					
+					<!-- Items -->
+					<div class="page-usp">
+						
+						<!-- Single -->
+						<div class="page-usp-item check-inside">
+							
+							<!-- Check -->
+							<div class="check-wrapper page-usp-check-wrapper"></div>
+							
+							Разработка чертежей для строителей
+							
+						</div>
+											
+						<!-- Single -->
+						<div class="page-usp-item check-inside">
+							
+							<!-- Check -->
+							<div class="check-wrapper page-usp-check-wrapper"></div>
+							
+							3D-модель квартиры с ремонтом
+							
+						</div>
+											
+						<!-- Single -->
+						<div class="page-usp-item check-inside">
+							
+							<!-- Check -->
+							<div class="check-wrapper page-usp-check-wrapper"></div>
+							
+							План демонтажа перегородок
+							
+						</div>
+						
+						<!-- Button -->
+						<div class="button-wrapper no-margin pulse-button">
+							
+							<a href="#" class="button border small open-list-modal">СМОТРЕТЬ ВЕСЬ СПИСОК</a>
+							
+						</div>
+					
+					</div>
+				
+				</div>
+				
+			</div>
+			
+			<!-- Right (form) -->
+			<form action="http://am24.by/wp-content/themes/remont/send.php" method="post" class="send-form page-form" autocomplete="off">
+			<div class="page-form-inner">
+			
+				<!-- Title -->
+				<div class="page-form-title">
+				
+					ОСТАВЬТЕ ЗАЯВКУ
+					<em>и мы вам перезвоним!</em>
+					
+				</div>
+				
+				<!-- Inputs -->
+				<div class="page-inputs-wrapper">
+					
+					<div class="input-wrapper page-input-wrapper si-error-parent">
+						<input type="text" name="client_name" class="client-name input si-error-to-parent" placeholder="Ваше имя" />
+						<svg class="svg-icon form-icon form-icon-user" role="img"><use xlink:href="#form-icon-user"></use></svg>
+					</div>
+					
+					<div class="input-wrapper page-input-wrapper si-error-parent">
+						<input type="tel" name="client_phone" class="client-phone input si-error-to-parent" placeholder="Ваш телефон" />
+						<svg class="svg-icon form-icon form-icon-phone" role="img"><use xlink:href="#form-icon-phone"></use></svg>
+					</div>
+
+					<div class="submit-wrapper page-input-wrapper">
+						<div class="button-wrapper block no-margin pulse-button">
+							<button class="button block submit">ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ</button>
+						</div>
+					</div>
+					
+				</div>
+				
+				<input type="text" name="name" />
+				<input type="hidden" name="send_type" class="send-type" value="3" />
+				<input type="hidden" name="send_extra" class="send-extra" value="2" />
+			
+			</div>
+			</form>
+			
+		</div>
+		
+		<!-- Image -->
+		<img src="http://am24.by/wp-content/themes/remont/images/page-form-image-2.png" alt="" class="page-form-image i-2" />
+	
+	</div>
+	</section>
+
+	<!-- End: Page form (2) -->
+	
+	
+	<!-- Start: About -->
+	
+	<section id="about">
+	<div class="centered">
+	
+		<!-- Title -->
+		<h2 class="text-align-center">
+		
+			О КОМПАНИИ В ЦИФРАХ И ФОТО
+		
+		</h2>
+		
+		<!-- Items -->
+		<div class="about">
+			
+			<!-- Single -->
+			<div class="about-item">
+			
+				<img src="http://am24.by/wp-content/themes/remont/images/about/1.png" alt="" class="about-image" />
+				7 ЛЕТ НА РЫНКЕ
+			
+			</div>
+						
+			<!-- Single -->
+			<div class="about-item">
+			
+				<img src="http://am24.by/wp-content/themes/remont/images/about/2.png" alt="" class="about-image" />
+				ОПЫТ МАСТЕРОВ ОТ 8 ЛЕТ
+			
+			</div>
+			
+		</div>
+		
+		<!-- Workers -->
+		<div class="workers">
+			
+			<!-- Single -->
+			<div class="worker-item">
+				
+				<!-- Photo -->
+				<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/themes/remont/images/workers/1.jpg&amp;w=370&amp;h=350" alt="" class="worker-image">
+				
+				<!-- Text -->
+				<div class="worker-text">
+				
+					<strong>Акулов Андрей</strong>
+					Руководитель
+				
+				</div>
+				
+			</div>
+						
+			<!-- Single -->
+			<div class="worker-item">
+				
+				<!-- Photo -->
+				<img src="http://am24.by/wp-content/themes/remont/timthumb.php?src=http://am24.by/wp-content/themes/remont/images/workers/2.jpg&amp;w=370&amp;h=350" alt="" class="worker-image">
+				
+				<!-- Text -->
+				<div class="worker-text">
+				
+					<strong>Матвейчик Сергей</strong>
+					Прораб
+				
+				</div>
+				
+			</div>
+			
+		</div>
+		
+	</div>
+	</section>
+
+	<!-- End: About -->
+	
+	
+	<!-- Start: Also -->
+	
+	<section id="also">
+	<div class="centered">
+	
+		<!-- Title -->
+		<h2 class="text-align-center">
+		
+			ПОСМОТРИТЕ, ЧТО ЕЩЕ ВХОДИТ <br />
+			В УСЛУГУ КОМПЛЕКСНОГО РЕМОНТА
+		
+		</h2>
+		
+		<!-- Items -->
+		<div class="also">
+			
+			<!-- Single -->
+			<div class="also-item">
+			
+				<!-- Title -->
+				<div class="also-title">
+				<b>
+					Возможность наличного <br />
+					и безналичного <br />
+					расчёта
+				</b>
+				</div>
+				
+				<!-- Decoration -->
+				<img src="http://am24.by/wp-content/themes/remont/images/also/1.png" alt="" class="also-image i-1" />
+				
+			</div>
+						
+			<!-- Single -->
+			<div class="also-item">
+			
+				<!-- Title -->
+				<div class="also-title">
+					Возможноcть работы <br />
+					<b>без дизайн-проекта</b>
+				</div>
+				
+				<!-- Decoration -->
+				<img src="http://am24.by/wp-content/themes/remont/images/also/2.png" alt="" class="also-image i-2" />
+			
+			</div>
+						
+			<!-- Single -->
+			<div class="also-item">
+			
+				<!-- Title -->
+				<div class="also-title">
+					<b>Полная уборка квартиры</b> в конце <br />
+					каждого рабочего дня и по <br />
+					завершении ремонтных работ
+				</div>
+				
+				<!-- Decoration -->
+				<img src="http://am24.by/wp-content/themes/remont/images/also/3.png" alt="" class="also-image i-3" />
+			
+			</div>
+						
+			<!-- Single -->
+			<div class="also-item">
+			
+				<!-- Title -->
+				<div class="also-title">
+					<b>Предоставление всех <br />
+					чеков</b> после покупки <br />
+					материалов
+				</div>
+				
+				<!-- Decoration -->
+				<img src="http://am24.by/wp-content/themes/remont/images/also/4.png" alt="" class="also-image i-4" />
+			
+			</div>
+						
+			<!-- Single -->
+			<div class="also-item">
+			
+				<!-- Title -->
+				<div class="also-title">
+					<b>Ежедневный отчет</b> <br />
+					о проделанных <br />
+					работах на ваш <br />
+					смартфон
+				</div>
+				
+				<!-- Decoration -->
+				<img src="http://am24.by/wp-content/themes/remont/images/also/5.png" alt="" class="also-image i-5" />
+			
+			</div>
+						
+			<!-- Single -->
+			<div class="also-item">
+			
+				<!-- Title -->
+				<div class="also-title">
+					<b>Закупка и доставка</b> <br />
+					материалов на объект
+				</div>
+				
+				<!-- Decoration -->
+				<img src="http://am24.by/wp-content/themes/remont/images/also/6.png" alt="" class="also-image i-6" />
+			
+			</div>
+			
+		</div>
+	
+	</div>
+	</section>
+
+	<!-- End: Also -->
+	
+	
+	<!-- Start: Page form (3) -->
+	
+	<section id="page-form-3" class="page-form-block questions-form-block">
+	<div class="centered">
+		
+		<!-- Content wrapper -->
+		<div class="page-form-content questions-page-form-content si-justify">
+			
+			<!-- Left -->
+			<div class="page-form-block-left">
+				
+				<svg class="svg-icon question-icon" role="img"><use xlink:href="#question-icon"></use></svg>
+				
+				<!-- Title -->
+				<div class="page-form-block-title big">
+					
+					ПОЯВИЛИСЬ <br />
+					ВОПРОСЫ <br />
+					ПО РЕМОНТУ?
+					
+					<em>
+						Проконсультируйтесь <br />
+						у нашего специалиста
+					</em>
+					
+				</div>
+
+			</div>
+			
+			<!-- Right (form) -->
+			<form action="http://am24.by/wp-content/themes/remont/send.php" method="post" class="send-form page-form" autocomplete="off">
+			<div class="page-form-inner">
+			
+				<!-- Title -->
+				<div class="page-form-title">
+				
+					ОСТАВЬТЕ ЗАЯВКУ
+					<em>и мы вам перезвоним!</em>
+					
+				</div>
+				
+				<!-- Inputs -->
+				<div class="page-inputs-wrapper">
+					
+					<div class="input-wrapper page-input-wrapper si-error-parent">
+						<input type="text" name="client_name" class="client-name input si-error-to-parent" placeholder="Ваше имя" />
+						<svg class="svg-icon form-icon form-icon-user" role="img"><use xlink:href="#form-icon-user"></use></svg>
+					</div>
+					
+					<div class="input-wrapper page-input-wrapper si-error-parent">
+						<input type="tel" name="client_phone" class="client-phone input si-error-to-parent" placeholder="Ваш телефон" />
+						<svg class="svg-icon form-icon form-icon-phone" role="img"><use xlink:href="#form-icon-phone"></use></svg>
+					</div>
+
+					<div class="submit-wrapper page-input-wrapper">
+						<div class="button-wrapper block no-margin pulse-button">
+							<button class="button block submit">ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ</button>
+						</div>
+					</div>
+					
+				</div>
+				
+				<input type="text" name="name" />
+				<input type="hidden" name="send_type" class="send-type" value="3" />
+				<input type="hidden" name="send_extra" class="send-extra" value="3" />
+			
+			</div>
+			</form>
+			
+		</div>
+		
+		<!-- Image -->
+		<img src="http://am24.by/wp-content/themes/remont/images/page-form-image-3.png" alt="" class="page-form-image i-3" />
+	
+	</div>
+	</section>
+
+	<!-- End: Page form (3) -->
+	
+	
+	<!-- Start: New -->
+	
+	<section id="new">
+	<div class="centered">
+	
+		<!-- Title -->
+		<h2>
+		
+			КУПИЛИ КВАРТИРУ В НОВОСТРОЙКЕ?
+		
+		</h2>
+		
+		<!-- Content -->
+		<div class="new-holder">
+		
+			<!-- Fear -->
+			<div class="fear-wrapper">
+				
+				<!-- Title -->
+				<div class="page-usp-title">А ЗНАЕТЕ ЛИ ВЫ, ЧТО:</div>
+				
+				<!-- Items -->
+				<div class="fear si-justify">
+					
+					<!-- Single -->
+					<div class="fear-item">
+						
+						<!-- Cross -->
+						<div class="fear-cross-icon"></div>
+						
+						Абсолютное большинство квартир <br />
+						в новостройке сдаются с дефектами
+						
+					</div>
+									
+					<!-- Single -->
+					<div class="fear-item">
+						
+						<!-- Cross -->
+						<div class="fear-cross-icon"></div>
+						
+						Половина дефектов могут привести <br />
+						к серьезным проблемам
+						
+					</div>
+									
+					<!-- Single -->
+					<div class="fear-item">
+						
+						<!-- Cross -->
+						<div class="fear-cross-icon"></div>
+						
+						Больший процент дефектов может обнаружить только специалист
+						
+					</div>
+									
+					<!-- Single -->
+					<div class="fear-item">
+						
+						<!-- Cross -->
+						<div class="fear-cross-icon"></div>
+						
+						Любой дефект застройщик должен устранить за свой счет или снизить стоимость
+						
+					</div>
+					
+				</div>
+				
+			</div>
+			
+			<!-- USP -->
+			<div class="page-usp-wrapper">
+				
+				<!-- Title -->
+				<div class="page-usp-title">НАШИ СПЕЦИАЛИСТЫ:</div>
+				
+				<!-- Items -->
+				<div class="page-usp">
+					
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						Выявляют даже мелкие недоработки
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						Используют современное высокоточное оборудование
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						Составляют акты приемки
+						
+					</div>
+														
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						Читают техническую и юридическую документацию
+						
+					</div>
+														
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						Экономят до 6000 BYN вашего бюджета!
+						
+					</div>
+				
+				</div>
+			
+			</div>
+			
+			<!-- Button -->
+			<div class="button-wrapper pulse-button">
+				
+				<a href="#" class="button wide open-consult-modal">ПРОКОНСУЛЬТИРОВАТЬСЯ У СПЕЦИАЛИСТА</a>
+				
+			</div>
+			
+		</div>
+		
+		<!-- Decoration -->
+		<img src="http://am24.by/wp-content/themes/remont/images/new-image.png" alt="" class="new-image" />
+		
+	</div>
+	</section>
+
+	<!-- End: New -->
+	
+	
+	<!-- Start: FAQ -->
+	
+	<section id="faq">
+	<div class="centered">
+	
+		<!-- Title -->
+		<h2>
+		
+			ОТВЕТЫ НА ЧАСТО ЗАДАВАЕМЫЕ ВОПРОСЫ
+		
+		</h2>
+		
+		<!-- Items -->
+		<div class="faq">
+		
+				
+			<!-- Single -->
+			<div class="faq-item">
+				
+				<!-- Question -->
+				<div class="faq-title"><span>Вы делаете дизайн-проекты?</span></div>
+				
+				<!-- Answer -->
+				<div class="faq-text">
+					
+					Да, делаем. Для заказа или консультации по дизайн-проекту звоните по указанным на сайте номерам или оставляйте заявку через любую из форм.					
+				</div>
+				
+			</div>
+			
+				
+			<!-- Single -->
+			<div class="faq-item">
+				
+				<!-- Question -->
+				<div class="faq-title"><span>У меня уже есть дизайн-проект, сделаете ремонт?</span></div>
+				
+				<!-- Answer -->
+				<div class="faq-text">
+					
+					Да, сделаем. Для расчёта стоимости ремонта звоните по указанным на сайте номерам или оставляйте заявку через любую из форм.					
+				</div>
+				
+			</div>
+			
+				
+			<!-- Single -->
+			<div class="faq-item">
+				
+				<!-- Question -->
+				<div class="faq-title"><span>Квартира еще строится, что я могу получить сейчас?</span></div>
+				
+				<!-- Answer -->
+				<div class="faq-text">
+					
+					Дизайн проект, исходя из планировки квартиры, смету и расчет стоимости ремонта.					
+				</div>
+				
+			</div>
+			
+				
+			<!-- Single -->
+			<div class="faq-item">
+				
+				<!-- Question -->
+				<div class="faq-title"><span>У вас есть скидки?</span></div>
+				
+				<!-- Answer -->
+				<div class="faq-text">
+					
+					Да, в зависимости от квадратуры ремонта и условий ремонта.					
+				</div>
+				
+			</div>
+			
+				
+			<!-- Single -->
+			<div class="faq-item">
+				
+				<!-- Question -->
+				<div class="faq-title"><span>Сколько времени нужно на ремонт?</span></div>
+				
+				<!-- Answer -->
+				<div class="faq-text">
+					
+					От трёх до шести месяцев, зависит от площади и сложности ремонта.					
+				</div>
+				
+			</div>
+			
+				
+			<!-- Single -->
+			<div class="faq-item">
+				
+				<!-- Question -->
+				<div class="faq-title"><span>Какой вид ремонта мне нужен?</span></div>
+				
+				<!-- Answer -->
+				<div class="faq-text">
+					
+					Решите для себя, насколько масштабными будут перемены в вашей квартире и какой бюджет вы готовы выделить на эти перемены. <br />
+Стандартный косметический ремонт квартиры – это восстановление первозданного вида комнат без применения отделочных работ. Без замены отделочных материалов – только восстановление.<br />
+Косметический ремонт с применением отделочных работ – это восстановление прежнего вида и состояния комнат с заменой отделочных материалов.<br />
+Текущий – ремонт с целью восстановления исправности (работоспособности), а также поддержания эксплуатационных показателей.<br />
+Капитальный – предполагает разборку и ревизию конструкции с целью выявления скрытых неисправностей и оценки ресурса деталей, замену не только неисправных деталей, но и деталей, выработавших свой ресурс. Такой ремонт предполагает большой объём работ и значительные расходы.<br />
+Евроремонт – элитный ремонт квартир под ключ, включающий в себя целый комплекс ремонтных работ с использованием самых передовых технологий, современных высококачественных строительных материалов и качественных отделочных работ. Соблюдаются все международные стандарты при непосредственном участии дизайнера по интерьеру.					
+				</div>
+				
+			</div>
+			
+				
+			<!-- Single -->
+			<div class="faq-item">
+				
+				<!-- Question -->
+				<div class="faq-title"><span>Нужен ли мне дизайн-проект?</span></div>
+				
+				<!-- Answer -->
+				<div class="faq-text">
+					
+					Да, нужен, он поможет точно из условий заказчика сделать ремонт, сэкономить время и сэкономить затраты.					
+				</div>
+				
+			</div>
+			
+				
+			<!-- Single -->
+			<div class="faq-item">
+				
+				<!-- Question -->
+				<div class="faq-title"><span>Кто и как подбирает строительные материалы?</span></div>
+				
+				<!-- Answer -->
+				<div class="faq-text">
+					
+					Либо заказчик, либо дизайнер, либо исполнитель, зависит от договоренностей с заказчиком.					
+				</div>
+				
+			</div>
+			
+				
+			<!-- Single -->
+			<div class="faq-item">
+				
+				<!-- Question -->
+				<div class="faq-title"><span>Есть ли гарантия на ремонтно-строительные работы и материалы?</span></div>
+				
+				<!-- Answer -->
+				<div class="faq-text">
+					
+					2 года гарантии на ремонт и материалы.					
+				</div>
+				
+			</div>
+			
+				
+			<!-- Single -->
+			<div class="faq-item">
+				
+				<!-- Question -->
+				<div class="faq-title"><span>Можно проводить ремонт в зимнее время?</span></div>
+				
+				<!-- Answer -->
+				<div class="faq-text">
+					
+					Да, можно.					
+				</div>
+				
+			</div>
+			
+				
+			<!-- Single -->
+			<div class="faq-item">
+				
+				<!-- Question -->
+				<div class="faq-title"><span>От чего зависит стоимоть ремонта?</span></div>
+				
+				<!-- Answer -->
+				<div class="faq-text">
+					
+					От площади, от сложности ремонта и сроков выполнения ремонта.					
+				</div>
+				
+			</div>
+			
+				
+			<!-- Single -->
+			<div class="faq-item">
+				
+				<!-- Question -->
+				<div class="faq-title"><span>Что включает в себя дизайн-проект?</span></div>
+				
+				<!-- Answer -->
+				<div class="faq-text">
+					
+					Разработка чертежей для строителей <br />
+3D-модель квартиры с ремонтом<br />
+План демонтажа перегородок<br />
+План монтажа перегородок<br />
+План после перепланировки и экспликация помещений<br />
+План с указанием расположения мебели<br />
+План потолков<br />
+План пола с указанием типа напольного покрытия, площади и артикула выбранного материала<br />
+План размещения осветительных приборов, привязка выпусков освещения, план выключателей<br />
+План привязки освещения<br />
+План привязки выключателей с указанием включения групп светильников<br />
+Чертежи заказных изделий (выполняются в случае необходимости)<br />
+План электрики<br />
+План расположения сантехники<br />
+План полов с указанием типа покрытий, отметок уровня пола, подиумов, рисунков и размеров<br />
+Разрез - развертка стен с декоративными элементами<br />
+План теплых полов (выполняются в случае необходимости)<br />
+Развертка стен с раскладкой плитки, указанием размеров и площадей<br />
+Спецификация дверей с указанием размеров дверных проемов<br />
+Ведомость отделки<br />
+Выходы вентиляционных коробов (в случае необходимости)<br />
+					
+				</div>
+				
+			</div>
+			
+		
+		</div>
+		
+		<!-- Decorations -->
+		<svg class="svg-icon faq-question q-1 si-floating" role="img"><use xlink:href="#question-icon"></use></svg>
+		<svg class="svg-icon faq-question q-2 si-floating2" role="img"><use xlink:href="#question-icon"></use></svg>
+		<svg class="svg-icon faq-question q-3 si-floating3" role="img"><use xlink:href="#question-icon"></use></svg>
+		<svg class="svg-icon faq-question q-4 si-floating" role="img"><use xlink:href="#question-icon"></use></svg>
+		<svg class="svg-icon faq-question q-5 si-floating4" role="img"><use xlink:href="#question-icon"></use></svg>
+		<svg class="svg-icon faq-question q-6 si-floating2" role="img"><use xlink:href="#question-icon"></use></svg>
+		
+	</div>
+	</section>
+
+	<!-- End: FAQ -->
+	
+	
+	
+	<!-- Start: Page form (4) -->
+	
+	<section id="page-form-4" class="page-form-block questions-form-block">
+	<div class="centered">
+		
+		<!-- Content wrapper -->
+		<div class="page-form-content questions-page-form-content si-justify">
+			
+			<!-- Left -->
+			<div class="page-form-block-left">
+				
+				<svg class="svg-icon question-icon" role="img"><use xlink:href="#question-icon"></use></svg>
+				
+				<!-- Title -->
+				<div class="page-form-block-title big">
+					
+					ОСТАЛИСЬ ВОПРОСЫ <br />
+					ПО РЕМОНТУ?
+					
+					<em>
+						Проконсультируйтесь у нашего специалиста
+					</em>
+					
+				</div>
+
+			</div>
+			
+			<!-- Right (form) -->
+			<form action="http://am24.by/wp-content/themes/remont/send.php" method="post" class="send-form page-form" autocomplete="off">
+			<div class="page-form-inner">
+			
+				<!-- Title -->
+				<div class="page-form-title">
+				
+					ОСТАВЬТЕ ЗАЯВКУ
+					<em>и мы вам перезвоним!</em>
+					
+				</div>
+				
+				<!-- Inputs -->
+				<div class="page-inputs-wrapper">
+					
+					<div class="input-wrapper page-input-wrapper si-error-parent">
+						<input type="text" name="client_name" class="client-name input si-error-to-parent" placeholder="Ваше имя" />
+						<svg class="svg-icon form-icon form-icon-user" role="img"><use xlink:href="#form-icon-user"></use></svg>
+					</div>
+					
+					<div class="input-wrapper page-input-wrapper si-error-parent">
+						<input type="tel" name="client_phone" class="client-phone input si-error-to-parent" placeholder="Ваш телефон" />
+						<svg class="svg-icon form-icon form-icon-phone" role="img"><use xlink:href="#form-icon-phone"></use></svg>
+					</div>
+
+					<div class="submit-wrapper page-input-wrapper">
+						<div class="button-wrapper block no-margin pulse-button">
+							<button class="button block submit">ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ</button>
+						</div>
+					</div>
+					
+				</div>
+				
+				<input type="text" name="name" />
+				<input type="hidden" name="send_type" class="send-type" value="3" />
+				<input type="hidden" name="send_extra" class="send-extra" value="4" />
+			
+			</div>
+			</form>
+			
+		</div>
+	
+	</div>
+	</section>
+
+	<!-- End: Page form (4) -->
+	
+	
+	<!-- Start: Footer -->
+	
+	<footer id="footer">
+	<div class="centered si-justify">
+
+		<!-- Logo -->
+		<a href="#" class="logo si-jump">
+			<strong>РЕМОНТ КВАРТИР</strong>
+			В МИНСКЕ
+		</a>
+		
+		<!-- Phone block -->
+		<div class="si-phone">
+			
+			<a href="tel:+375291852795" class="phone-link">+375 /29/ 185-27-95</a>
+			
+			<a href="tel:+375292614583" class="phone-link">+375 /29/ 261-45-83</a>
+			
+			<a href="#" class="open-phone-modal modal-link buzz-inside" data-extra="2">
+				
+				<span class="phone-icon-wrapper"><svg class="svg-icon phone-icon buzz-icon" role="img"><use xlink:href="#phone-icon"></use></svg></span>
+				<span class="text">ЗАКАЗАТЬ ЗВОНОК</span>
+			</a>
+			
+		</div>
+		
+		<!-- Creator -->
+		<div class="footer-creator">
+		
+			<a href="http://magnificent.by?utm_source=Referrer&utm_medium=am24_by&utm_campaign=am24_by" target="_blank"><svg class="svg-icon creator-logo" role="img"><use xlink:href="#creator-logo"></use></svg></a> — разработка и продвижение сайта
+		
+		</div>
+	
+	</div>
+	</footer>
+
+	<!-- End: Footer -->
+
+
+	<!-- Start: Modals -->
+		
+		<!-- Overlay(s) -->
+		<div class="si-overlay" data-id="1"></div>
+
+		<div class="si-modals-wrapper" data-id="1">
+
+			<!-- Phone modal -->
+			<div class="si-modal phone-modal">
+				
+				<!-- Close -->
+				<a href="#" class="si-close"></a>
+
+				<!-- Form -->
+				<form action="http://am24.by/wp-content/themes/remont/send.php" method="post" class="send-form modal-form" autocomplete="off">
+					
+					<!-- Title -->
+					<div class="page-form-title">
+					
+						ОСТАВЬТЕ ЗАЯВКУ
+						<em>и мы вам перезвоним!</em>
+						
+					</div>
+					
+					<!-- Inputs -->
+					<div class="page-inputs-wrapper">
+						
+						<div class="input-wrapper page-input-wrapper si-error-parent">
+							<input type="text" name="client_name" class="client-name input si-error-to-parent" placeholder="Ваше имя" />
+							<svg class="svg-icon form-icon form-icon-user" role="img"><use xlink:href="#form-icon-user"></use></svg>
+						</div>
+						
+						<div class="input-wrapper page-input-wrapper si-error-parent">
+							<input type="tel" name="client_phone" class="client-phone input si-error-to-parent" placeholder="Ваш телефон" />
+							<svg class="svg-icon form-icon form-icon-phone" role="img"><use xlink:href="#form-icon-phone"></use></svg>
+						</div>
+
+						<div class="submit-wrapper page-input-wrapper">
+							<div class="button-wrapper block no-margin pulse-button">
+								<button class="button block submit">ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ</button>
+							</div>
+						</div>
+						
+					</div>
+					
+					<input type="text" name="name" />
+					<input type="hidden" name="send_type" class="send-type" value="1" />
+					<input type="hidden" name="send_extra" class="send-extra" value="1" />
+
+				</form>
+
+			</div>
+
+			<!-- Consult modal -->
+			<div class="si-modal consult-modal">
+				
+				<!-- Close -->
+				<a href="#" class="si-close"></a>
+
+				<!-- Form -->
+				<form action="http://am24.by/wp-content/themes/remont/send.php" method="post" class="send-form modal-form" autocomplete="off">
+					
+					<!-- Title -->
+					<div class="page-form-title">
+					
+						ОСТАВЬТЕ ЗАЯВКУ
+						<em>и мы вам перезвоним!</em>
+						
+					</div>
+					
+					<!-- Inputs -->
+					<div class="page-inputs-wrapper">
+						
+						<div class="input-wrapper page-input-wrapper si-error-parent">
+							<input type="text" name="client_name" class="client-name input si-error-to-parent" placeholder="Ваше имя" />
+							<svg class="svg-icon form-icon form-icon-user" role="img"><use xlink:href="#form-icon-user"></use></svg>
+						</div>
+						
+						<div class="input-wrapper page-input-wrapper si-error-parent">
+							<input type="tel" name="client_phone" class="client-phone input si-error-to-parent" placeholder="Ваш телефон" />
+							<svg class="svg-icon form-icon form-icon-phone" role="img"><use xlink:href="#form-icon-phone"></use></svg>
+						</div>
+
+						<div class="submit-wrapper page-input-wrapper">
+							<div class="button-wrapper block no-margin pulse-button">
+								<button class="button block submit">ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ</button>
+							</div>
+						</div>
+						
+					</div>
+					
+					<input type="text" name="name" />
+					<input type="hidden" name="send_type" class="send-type" value="4" />
+					<input type="hidden" name="send_extra" class="send-extra" value="1" />
+
+				</form>
+
+			</div>
+
+			<!-- List modal -->
+			<div class="si-modal list-modal left">
+				
+				<!-- Close -->
+				<a href="#" class="si-close"></a>
+
+				<!-- Items -->
+				<div class="page-usp">
+					
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						3D-модель квартиры с ремонтом
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						План демонтажа перегородок
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						План монтажа перегородок
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						План после перепланировки и экспликация помещений
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						План с указанием расположения мебели
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						План потолков
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						План пола с указанием типа напольного покрытия, площади и артикула выбранного материала
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						План размещения осветительных приборов, привязка выпусков освещения, план выключателей
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						План привязки освещения
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						План привязки выключателей с указанием включения групп светильников;
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						Чертежи заказных изделий (выполняются в случае необходимости)
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						План электрики
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						План расположения сантехники
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						План полов с указанием типа покрытий, отметок уровня пола, подиумов, рисунков и размеров;
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						Разрез - развертка стен с декоративными элементами
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						План теплых полов (выполняются в случае необходимости)
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						Развертка стен с раскладкой плитки, указанием размеров и площадей
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						Спецификация дверей с указанием размеров дверных проемов
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						Ведомость отделки
+						
+					</div>
+										
+					<!-- Single -->
+					<div class="page-usp-item check-inside">
+						
+						<!-- Check -->
+						<div class="check-wrapper page-usp-check-wrapper"></div>
+						
+						Выходы вентиляционных коробов (в случае необходимости)
+						
+					</div>
+
+				</div>
+				
+			</div>
+
+			<!-- Calc modal -->
+			<div class="si-modal big calc-modal">
+				
+				<!-- Close -->
+				<a href="#" class="si-close"></a>
+				
+				<!-- Form -->
+				<form action="http://am24.by/wp-content/themes/remont/send.php" method="post" class="send-form big-form" autocomplete="off">
+					
+					<!-- STEPS -->
+					<div class="big-form-steps">
+					
+						<!-- Title -->
+						<div class="big-modal-title">РАСЧЕТ СТОИМОСТИ РЕМОНТА</div>
+						
+						<!-- Progress -->
+						<div class="big-modal-progress">
+							<div class="big-modal-progress-bar"><span class="value"><span class="current-step">1</span>/<span class="steps-count">10</span></span></div>
+						</div>
+						
+						<!-- Steps -->
+						<div class="big-modal-steps">
+							
+							<!-- Single -->
+							<div class="big-modal-step active">
+								
+								<!-- Title -->
+								<div class="big-modal-step-title">01. Какой у вас тип квартиры?</div>
+								
+								<!-- Items -->
+								<div class="big-modal-step-variants center">
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/1/1.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Новостройка
+										</div>
+										
+									</div>
+															
+									<!-- Single -->
+									<div class="big-modal-step-variant">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/1/2.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Вторичка
+										</div>
+										
+									</div>
+								
+								</div>
+								
+								<input type="hidden" class="big-modal-step-input" name="calc_type" value="" />
+								
+							</div>
+
+							<!-- Single -->
+							<div class="big-modal-step">
+								
+								<!-- Title -->
+								<div class="big-modal-step-title">02. У вас уже есть дизайн-проект?</div>
+								
+								<!-- Items -->
+								<div class="big-modal-step-labels center">
+									
+									<!-- Single -->
+									<label class="big-modal-step-label">
+										<input type="radio" name="calc_project" value="Да" checked="checked" />Да
+									</label>
+															
+									<!-- Single -->
+									<label class="big-modal-step-label">
+										<input type="radio" name="calc_project" value="Нет" />Нет
+									</label>
+								
+								</div>
+								
+							</div>
+
+							<!-- Single -->
+							<div class="big-modal-step">
+								
+								<!-- Title -->
+								<div class="big-modal-step-title">03. Какая площадь вашей квартиры?</div>
+								
+								<!-- Items -->
+								<div class="big-modal-step-labels center">
+									
+									<!-- Single -->
+									<label class="big-modal-step-label">
+										<input type="text" name="calc_area" class="text input in-modal" placeholder="Введите площадь" />м<sup>2</sup>
+									</label>
+								
+								</div>
+								
+							</div>
+
+							<!-- Single -->
+							<div class="big-modal-step">
+								
+								<!-- Title -->
+								<div class="big-modal-step-title">04. Укажите высоту ваших потолков</div>
+								
+								<!-- Items -->
+								<div class="big-modal-step-labels center">
+									
+									<!-- Single -->
+									<label class="big-modal-step-label">
+										<input type="text" name="calc_height" class="text input in-modal" placeholder="Введите высоту" />м
+									</label>
+								
+								</div>
+								
+							</div>
+
+							<!-- Single -->
+							<div class="big-modal-step">
+								
+								<!-- Title -->
+								<div class="big-modal-step-title">05. Сколько комнат в вашей квартире?</div>
+								
+								<!-- Items -->
+								<div class="big-modal-step-labels center">
+									
+									<!-- Single -->
+									<label class="big-modal-step-label">
+										<input type="radio" name="calc_rooms" value="1" checked="checked" />1
+									</label>
+															
+									<!-- Single -->
+									<label class="big-modal-step-label">
+										<input type="radio" name="calc_rooms" value="2" />2
+									</label>
+															
+									<!-- Single -->
+									<label class="big-modal-step-label">
+										<input type="radio" name="calc_rooms" value="3" />3
+									</label>
+															
+									<!-- Single -->
+									<label class="big-modal-step-label">
+										<input type="radio" name="calc_rooms" value="4" />4
+									</label>
+															
+									<!-- Single -->
+									<label class="big-modal-step-label">
+										<input type="radio" name="calc_rooms" value="5" />5
+									</label>
+															
+									<!-- Single -->
+									<label class="big-modal-step-label">
+										<input type="radio" name="calc_rooms" value="6" />6
+									</label>
+								
+								</div>
+								
+							</div>
+							
+							<!-- Single -->
+							<div class="big-modal-step">
+								
+								<!-- Title -->
+								<div class="big-modal-step-title">06. В каком стиле должен быть ремонт?</div>
+								
+								<!-- Items -->
+								<div class="big-modal-step-variants">
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-6">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/6/1.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Лофт
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-6">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/6/2.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Современный
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-6">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/6/3.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Скандинавский
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-6">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/6/4.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Арт Деко
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-6">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/6/5.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Классический
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant dont-know width-1-6">
+									<div class="big-modal-step-variant-inner">
+										
+										<span>
+											<svg class="svg-icon question-in-circle" role="img"><use xlink:href="#question-in-circle-icon"></use></svg>
+											Другой стиль
+										</span>
+										
+									</div>
+									</div>
+
+								</div>
+								
+								<input type="hidden" class="big-modal-step-input" name="calc_style" value="" />
+								
+							</div>
+							
+							<!-- Single -->
+							<div class="big-modal-step">
+								
+								<!-- Title -->
+								<div class="big-modal-step-title">07. Выберите материал для пола</div>
+								
+								<!-- Items -->
+								<div class="big-modal-step-variants">
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-6">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/7/1.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Линолеум
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-6">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/7/2.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Ламинат
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-6">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/7/3.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Паркетная доска
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-6">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/7/4.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Паркет
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-6">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/7/5.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Инженерная доска
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant dont-know width-1-6">
+									<div class="big-modal-step-variant-inner">
+										
+										<span>
+											<svg class="svg-icon question-in-circle" role="img"><use xlink:href="#question-in-circle-icon"></use></svg>
+											Пока не знаю
+										</span>
+										
+									</div>
+									</div>
+
+								</div>
+								
+								<input type="hidden" class="big-modal-step-input" name="calc_floor" value="" />
+								
+							</div>
+							
+							<!-- Single -->
+							<div class="big-modal-step">
+								
+								<!-- Title -->
+								<div class="big-modal-step-title">08. Выберите материал для стен</div>
+								
+								<!-- Items -->
+								<div class="big-modal-step-variants inside-5">
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-5">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/8/1.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Обои
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-5">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/8/2.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Обои под покраску
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-5">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/8/3.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Покраска
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-5">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/8/4.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Декоративная штукатурка
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant dont-know width-1-5">
+									<div class="big-modal-step-variant-inner">
+										
+										<span>
+											<svg class="svg-icon question-in-circle" role="img"><use xlink:href="#question-in-circle-icon"></use></svg>
+											Пока не знаю
+										</span>
+										
+									</div>
+									</div>
+
+								</div>
+								
+								<input type="hidden" class="big-modal-step-input" name="calc_walls" value="" />
+								
+							</div>
+							
+							<!-- Single -->
+							<div class="big-modal-step">
+								
+								<!-- Title -->
+								<div class="big-modal-step-title">09. Выберите материал для потолка</div>
+								
+								<!-- Items -->
+								<div class="big-modal-step-variants inside-5">
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-5">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/9/1.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Натяжной
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-5">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/9/2.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Покраска
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-5">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/9/3.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Гипсокартон (1&nbsp;уровень)
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant width-1-5">
+										
+										<!-- Image -->
+										<img src="http://am24.by/wp-content/themes/remont/images/qiz/9/4.jpg" alt="" class="big-modal-step-variant-image" />
+										
+										<!-- Text -->
+										<div class="big-modal-step-variant-text">
+											Гипсокартон (2&nbsp;уровня)
+										</div>
+										
+									</div>
+									
+									<!-- Single -->
+									<div class="big-modal-step-variant dont-know width-1-5">
+									<div class="big-modal-step-variant-inner">
+										
+										<span>
+											<svg class="svg-icon question-in-circle" role="img"><use xlink:href="#question-in-circle-icon"></use></svg>
+											Пока не знаю
+										</span>
+										
+									</div>
+									</div>
+
+								</div>
+								
+								<input type="hidden" class="big-modal-step-input" name="calc_ceil" value="" />
+								
+							</div>
+							
+							<!-- Single -->
+							<div class="big-modal-step">
+								
+								<!-- Title -->
+								<div class="big-modal-step-title">10. Когда вы планируете ремонт?</div>
+								
+								<!-- Items -->
+								<div class="big-modal-step-labels center">
+									
+									<!-- Single -->
+									<label class="big-modal-step-label">
+										<input type="radio" name="calc_when" value="В этом месяце" checked="checked" />В этом месяце
+									</label>
+															
+									<!-- Single -->
+									<label class="big-modal-step-label">
+										<input type="radio" name="calc_when" value="Через месяц" />Через месяц
+									</label>
+																					
+									<!-- Single -->
+									<label class="big-modal-step-label">
+										<input type="radio" name="calc_when" value="Через месяц" />В течение 3-х месяцев
+									</label>
+								
+								</div>
+								
+							</div>
+
+						</div>
+						
+						<!-- Nav -->
+						<div class="big-modal-nav si-justify">
+						
+							<a href="#" class="big-modal-button prev disabled"><svg class="svg-icon big-modal-button-arrow prev" role="img"><use xlink:href="#arrow-left-icon"></use></svg><span>НАЗАД</span></a>
+							<a href="#" class="big-modal-button next"><svg class="svg-icon big-modal-button-arrow next" role="img"><use xlink:href="#arrow-right-icon"></use></svg><span>ДАЛЕЕ</span></a>
+						
+						</div>
+						
+					</div>
+
+					<!-- FINAL -->
+					<div class="big-steps-final si-clear">
+						
+						<!-- Decoration -->
+						<div class="big-steps-final-title">
+							ДИЗАЙНЕР-ПРОЕКТИРОВЩИК <br />
+							УЖЕ НАЧАЛ РАСЧЕТ <br />
+							СТОИМОСТИ
+						</div>
+						
+						<!-- Image -->
+						<img src="http://am24.by/wp-content/themes/remont/images/page-form-image.png" alt="" class="big-steps-final-image" />
+						
+						<!-- Form -->
+						<div class="real-form">
+							
+							<!-- Title -->
+							<div class="page-form-title">
+							
+								ОСТАВЬТЕ ЗАЯВКУ
+								<em class="small">
+									и наш специалист перезвонит вам, <br />
+									чтобы сообщить стоимость ремонта
+								</em>
+								
+							</div>
+							
+							<!-- Inputs -->
+							<div class="page-inputs-wrapper">
+								
+								<div class="input-wrapper page-input-wrapper si-error-parent">
+									<input type="text" name="client_name" class="client-name input si-error-to-parent" placeholder="Ваше имя" />
+									<svg class="svg-icon form-icon form-icon-user" role="img"><use xlink:href="#form-icon-user"></use></svg>
+								</div>
+								
+								<div class="input-wrapper page-input-wrapper si-error-parent">
+									<input type="tel" name="client_phone" class="client-phone input si-error-to-parent" placeholder="Ваш телефон" />
+									<svg class="svg-icon form-icon form-icon-phone" role="img"><use xlink:href="#form-icon-phone"></use></svg>
+								</div>
+
+								<div class="submit-wrapper page-input-wrapper">
+									<div class="button-wrapper block no-margin pulse-button">
+										<button class="button block submit">ОТПРАВИТЬ</button>
+									</div>
+								</div>
+								
+							</div>
+							
+							<input type="text" name="name" />
+							<input type="hidden" name="send_type" class="send-type" value="2" />
+							<input type="hidden" name="send_extra" class="send-extra" value="1" />
+						
+						</div>
+						
+					</div>
+					
+				</form>
+
+			</div>
+
+			<!-- Success modal -->
+			<div class="si-success-modal si-success-modal-1">
+				
+				<!-- Close -->
+				<a href="#" class="si-close"></a>
+				
+				<!-- Title -->
+				<div class="si-success-modal-title">Спасибо!</div>
+				<div class="modal-line"></div>
+				
+				<!-- Time -->
+				<div class="success-time">
+					Наш менеджер свяжется <br />
+					с Вами в ближайшее время
+				</div>
+				
+			</div>
+			
+		</div>
+
+</div>
+
+	<script type="text/javascript">
+		var template_url = 'http://am24.by/wp-content/themes/remont/';
+		var success_url = 'http://am24.by/spasibo//';
+	</script>   
+	
+	<!-- SVG icons -->
+	<svg xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0;overflow:hidden;">
+<defs>
+	
+	<!-- Gradients -->
+		
+		<!-- Main -->
+		<linearGradient id="opacity-gradient" x1="0" y1="0" x2="0" y2="1">
+			<stop offset="0%" stop-color="#000"/>
+			<stop offset="100%" stop-color="#000" stop-opacity="0.2" />
+		</linearGradient>
+	
+	<!-- Filters -->
+			
+		<!-- Blur -->
+		<filter id="blur-filter-weak">
+			<feGaussianBlur in="SourceGraphic" stdDeviation="1" />
+		</filter>
+					
+		<!-- Blur -->
+		<filter id="blur-filter">
+			<feGaussianBlur in="SourceGraphic" stdDeviation="2" />
+		</filter>
+		
+		<!-- Blur -->
+		<filter id="blur-filter-strong">
+			<feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+		</filter>
+	
+	<!-- Main icons -->
+	<g id="main-icons">
+	
+		<!-- Phone -->
+		<symbol id="phone-icon" viewBox="0 0 9.997 10.028">
+			<path d="m9.773 7.932-1.544-1.552c-.308-.308-.817-.299-1.135.021l-.778.782c-.049-.027-.1-.056-.153-.086-.491-.273-1.164-.648-1.871-1.36-.71-.713-1.083-1.39-1.356-1.884-.029-.054-.056-.104-.084-.152l.522-.524.257-.258c.319-.321.327-.832.021-1.141l-1.544-1.553c-.307-.308-.816-.299-1.135.021l-.435.441.012.011c-.146.187-.268.404-.359.636-.084.222-.136.434-.16.645-.203 1.7.569 3.253 2.665 5.359 2.897 2.912 5.232 2.694 5.333 2.682.219-.027.43-.079.643-.162.23-.091.444-.212.63-.359l.01.009.441-.434c.317-.321.326-.833.02-1.142z" />
+		</symbol>
+
+		<!-- Question -->
+		<symbol id="question-icon"  viewBox="0 0 325.018 492.002">
+			<path d="m196.249 315.494v-16.638c0-9.349 2.878-17.455 8.639-24.307 5.756-6.852 20.049-17.669 42.868-32.463 26.946-17.18 46.561-35.4 58.842-54.648 12.276-19.25 18.419-42.033 18.419-68.352 0-36.757-13.804-65.793-41.401-87.112-27.602-21.314-65.637-31.974-114.098-31.974-58.899 0-115.403 15.447-169.518 46.329l45.313 88.743c43.897-23.272 82.258-34.91 115.076-34.91 13.254 0 24.012 2.667 32.274 7.993 8.257 5.333 12.388 12.562 12.388 21.696 0 11.531-3.861 21.753-11.573 30.669-7.717 8.922-20.375 18.923-37.979 30.016-22.168 13.922-37.601 28.221-46.291 42.903-8.695 14.682-13.04 32.682-13.04 53.996v28.058h100.081zm-95.842 160.358c12.169 10.767 29.014 16.149 50.529 16.149 20.864 0 37.327-5.439 49.388-16.313 12.062-10.874 18.093-26.208 18.093-46.002 0-19.79-5.817-35.18-17.441-46.166-11.629-10.981-28.311-16.477-50.04-16.477-22.606 0-39.72 5.44-51.344 16.313-11.629 10.879-17.441 26.32-17.441 46.329 0 20.016 6.082 35.401 18.256 46.167z" />
+		</symbol>
+		
+		<!-- Zoom -->
+		<symbol id="zoom-icon" viewBox="0 0 64 64">
+			<path d="m62 45c-1.105 0-2 .896-2 2v13h-13c-1.105 0-2 .895-2 2s .895 2 2 2h15c1.105 0 2-.895 2-2v-15c0-1.104-.895-2-2-2z"/><path d="m17 60h-13v-13c0-1.104-.895-2-2-2s-2 .896-2 2v15c0 1.105.895 2 2 2h15c1.105 0 2-.895 2-2s-.895-2-2-2z"/><path d="m17-.001h-15c-1.105 0-2 .896-2 2v15c0 1.104.895 2 2 2s2-.896 2-2v-13h13c1.105 0 2-.896 2-2s-.895-2-2-2z"/><path d="m62-.001h-15c-1.105 0-2 .896-2 2s .895 2 2 2h13v13c0 1.104.895 2 2 2s2-.896 2-2v-15c0-1.104-.895-2-2-2z"/>
+		</symbol>
+		
+		<!-- Play -->
+		<symbol id="play-icon"  viewBox="0 0 16.001 19.984">
+			<path d="m15.225 11.838-10.701 7.38c-1.035 1.02-2.713 1.02-3.748 0-.401-.394-.642-.885-.732-1.396h-.044v-.448c0-.001 0-.001 0-.002v-14.762-.447h.043c.09-.513.331-1.004.733-1.399 1.035-1.019 2.713-1.019 3.748 0l10.701 7.383c1.035 1.019 1.035 2.672 0 3.691zm-8.865-1.883v.074l.038-.037z" />
+		</symbol>
+		
+		<!-- Creator -->
+		<symbol id="creator-logo" viewBox="0 0 36.61 12.048">
+			<path d="m3.54 6.204c-.056.08-.185.12-.384.12-.2 0-.3-.057-.3-.168-.009 0 .294-.612.905-1.836.613-1.224.919-2.04.919-2.448 0-.224-.088-.336-.264-.336-.448.008-.948.268-1.5.78s-1.08 1.16-1.584 1.945c-.64.928-.96 1.795-.96 2.604 0 .184.016.326.048.426s.056.158.072.174c.04.04.06.074.06.103 0 .027-.02.042-.06.042-.12 0-.232-.11-.336-.33-.104-.222-.156-.472-.156-.752 0-1.12.656-2.813 1.968-5.076.056-.128.166-.33.33-.606s.296-.414.396-.414.212.024.336.072.186.104.186.168c-.888 1.456-1.46 2.444-1.716 2.964 1.168-1.624 2.188-2.436 3.06-2.436.425 0 .637.244.637.732 0 .616-.372 1.68-1.116 3.192.415-.384 1.123-1.088 2.123-2.112.072-.112.262-.33.57-.654s.518-.486.63-.486c.023 0 .036.012.036.036-1.8 1.984-3.024 3.256-3.672 3.816zm4.32-3.744c-.768 1.393-1.152 2.564-1.152 3.516 0 .625.104.937.313.937.191 0 .468-.42.827-1.26.057-.104.099-.156.126-.156.028 0 .042.026.042.078s-.004.09-.012.114c-.232.92-.584 1.38-1.056 1.38-.225 0-.402-.11-.534-.33-.132-.221-.198-.48-.198-.78s.046-.684.139-1.152c.092-.468.218-.947.378-1.439.159-.494.363-.918.611-1.274s.504-.534.768-.534c.12 0 .18.022.18.066s-.144.322-.432.834z"/><path d="m11.304 6.552.12-.023.024.012c0 .072-.098.108-.294.108s-.356-.089-.48-.265-.186-.414-.186-.714.056-.642.168-1.026c0 .024-.108.188-.324.492-.656 1.016-1.172 1.524-1.548 1.524-.16 0-.306-.074-.438-.222s-.198-.339-.198-.576.142-.596.426-1.08.626-.914 1.027-1.29c.399-.376.743-.564 1.031-.564h.12c.296 0 .548.058.756.174s.313.27.313.461c0 .089-.036.133-.108.133-.023 0-.036-.012-.036-.036-.136-.296-.332-.444-.588-.444-.448 0-.966.375-1.554 1.122-.588.749-.882 1.318-.882 1.71 0 .152.04.229.12.229.359 0 1.115-.813 2.268-2.436.016-.017.042-.025.078-.025s.118.039.246.115.192.142.192.197l-.169.312c-.264.56-.396 1.052-.396 1.476s.104.636.312.636z"/><path d="m13.488 5.94c.12.224.18.523.18.899 0 .08-.004.156-.012.229.328.136.602.312.821.527.221.217.33.422.33.618s-.048.294-.144.294c-.024 0-.044-.023-.061-.071.066-.088.098-.172.098-.251 0-.169-.108-.337-.324-.505s-.452-.292-.708-.372c-.096.824-.402 1.603-.918 2.335-.516.731-1.166 1.315-1.95 1.752-.784.436-1.588.653-2.412.653-.56 0-1.025-.155-1.397-.468-.372-.312-.559-.742-.559-1.29s.308-1.096.924-1.644c.615-.549 1.378-.982 2.285-1.303.908-.319 1.799-.479 2.67-.479.408 0 .757.036 1.045.107.031-.096.048-.184.048-.264 0-.271-.032-.464-.097-.576-.312.288-.596.433-.852.433s-.48-.124-.672-.372-.288-.512-.288-.793c0-.559.308-1.139.924-1.739 0-.456.05-.764.15-.924s.288-.24.563-.24c.276 0 .578.264.906.792.576.104.864.316.864.637 0 .071-.022.146-.066.221-.044.076-.09.115-.138.115s-.072-.017-.072-.049c.08-.056.12-.119.12-.191 0-.24-.192-.36-.576-.36.008.063.012.147.012.252.002.768-.23 1.443-.694 2.027zm-.972 1.236c-.76 0-1.508.099-2.244.294-.736.196-1.364.444-1.884.744s-.939.63-1.26.99-.48.726-.48 1.098.142.672.426.9.682.342 1.193.342c1.104 0 2.15-.438 3.139-1.313.987-.876 1.622-1.874 1.901-2.994-.191-.041-.455-.061-.791-.061zm-.552-1.38c0 .416.16.624.48.624.279 0 .544-.196.792-.588l-.624-1.487c-.168.168-.318.396-.45.684-.132.286-.198.543-.198.767zm1.008-2.964c-.224 0-.336.216-.336.647v.013c.265-.176.512-.265.744-.265h.096c-.112-.263-.28-.395-.504-.395zm.816 1.44c0-.225-.036-.424-.108-.601-.136.048-.33.138-.582.271-.252.132-.378.227-.378.281 0 .064.212.541.637 1.429.287-.416.431-.876.431-1.38z"/><path d="m17.028 3.265c.008.008.012.021.012.041 0 .021-.032.07-.096.15-.864 1.049-1.465 1.943-1.801 2.688l-.107.313c-.048.088-.108.132-.181.132-.071 0-.151-.02-.239-.06-.089-.04-.133-.088-.133-.145 0-.136.133-.617.396-1.445s.396-1.45.396-1.866c0-.112-.027-.18-.084-.204-.056-.024-.111-.034-.168-.03-.056.004-.084-.014-.084-.054 0-.072.061-.108.181-.108.535 0 .804.22.804.66 0 .168-.192.82-.576 1.956.352-.553.692-1.028 1.02-1.429.327-.4.548-.599.66-.599zm.936-.121c0-.032-.021-.012-.06.06-.225.408-.425.9-.601 1.477-.176.575-.264.951-.264 1.127 0 .488.088.732.264.732.056 0 .13-.038.222-.114.093-.076.131-.113.114-.113.024 0 .036.031.036.096 0 .208-.12.312-.36.312-.239 0-.424-.105-.552-.317s-.191-.515-.191-.906.104-.91.312-1.554c.208-.645.408-.966.6-.966h.061c.279-.002.419.054.419.166z"/><path d="m18.96 4.806c-.224.652-.336 1.103-.336 1.351s.052.372.156.372c.071 0 .164-.044.275-.132.112-.089.181-.145.204-.168.024-.024.052-.048.084-.072.032 0 .048.017.048.048 0 .096-.113.21-.342.342-.228.132-.394.198-.498.198-.304 0-.456-.22-.456-.66 0-.655.24-1.532.721-2.628 0-.031.021-.092.065-.18s.078-.144.103-.168c.056-.056.132-.084.228-.084.28 0 .432.056.456.168-.248.423-.484.961-.708 1.613zm1.332-3.582c.016 0 .024.02.024.06l-.061.348c-.12.496-.304.744-.552.744-.185 0-.328-.048-.432-.144.305-.208.645-.544 1.021-1.008z"/><path d="m20.231 2.892.613.108c.016 0 .042.002.078.006s.061-.01.078-.042c.079-.12.14-.264.18-.432.296-.936.565-1.592.81-1.968.243-.376.549-.564.917-.564.185 0 .345.052.48.156s.204.236.204.396c0 .384-.124.576-.372.576-.08 0-.12-.024-.12-.072.063-.136.096-.31.096-.522s-.06-.318-.18-.318c-.248 0-.544.344-.888 1.032-.057.112-.166.394-.33.846s-.246.702-.246.75c0 .08.052.12.156.12l1.523-.036c.024 0 .036.016.036.048-1.088.376-1.756.592-2.004.648 0 .057-.128.465-.384 1.225-.561 1.896-1.133 3.264-1.716 4.104-.584.84-1.236 1.26-1.956 1.26-.345 0-.66-.12-.948-.359-.288-.24-.433-.568-.433-.984 0-.048.015-.072.042-.072.028 0 .055.044.078.132.177.608.568.912 1.177.912.855 0 1.695-1.008 2.52-3.023.145-.36.33-.876.558-1.548.229-.672.41-1.205.547-1.597-.384-.106-.575-.329-.575-.674 0-.072.019-.108.059-.108z"/><path d="m23.268 4.806c-.224.652-.336 1.103-.336 1.351s.052.372.156.372c.071 0 .164-.044.275-.132.112-.089.181-.145.204-.168.024-.024.052-.048.084-.072.032 0 .048.017.048.048 0 .096-.113.21-.342.342-.228.132-.394.198-.498.198-.304 0-.456-.22-.456-.66 0-.655.24-1.532.721-2.628 0-.031.021-.092.065-.18s.078-.144.103-.168c.056-.056.132-.084.228-.084.28 0 .432.056.456.168-.248.423-.485.961-.708 1.613zm1.332-3.582c.016 0 .024.02.024.06l-.061.348c-.12.496-.304.744-.552.744-.185 0-.328-.048-.432-.144.305-.208.645-.544 1.021-1.008z"/><path d="m27.071 4.704c.048 0 .072.018.072.055 0 .035-.009.069-.024.102-.84 1.224-1.536 1.836-2.088 1.836-.68 0-1.02-.316-1.02-.948 0-.479.241-1.069.726-1.771.484-.699.95-1.049 1.398-1.049.159 0 .325.058.497.174.173.116.259.243.259.377 0 .377-.128.564-.385.564-.071 0-.111-.02-.119-.061.096-.215.144-.393.144-.533s-.032-.21-.096-.21c-.097 0-.257.092-.48.276-.392.319-.731.72-1.02 1.199-.288.48-.433.885-.433 1.213 0 .327.124.491.372.491.28 0 .596-.147.948-.444.224-.207.486-.471.786-.791s.455-.48.463-.48z"/><path d="m29.976 4.704c.048 0 .072.018.072.055 0 .035-.009.069-.024.102-.84 1.224-1.536 1.836-2.088 1.836-.68 0-1.02-.316-1.02-.948 0-.487.241-1.08.726-1.776.484-.695.954-1.043 1.41-1.043.191 0 .361.062.51.186s.222.273.222.449c0 .305-.188.605-.563.9-.376.297-.74.444-1.092.444-.072 0-.108-.017-.108-.048l.035-.061c.92-.287 1.38-.76 1.38-1.416 0-.096-.032-.144-.096-.144-.097 0-.257.092-.48.276-.392.319-.731.72-1.02 1.199-.288.48-.433.885-.433 1.213 0 .327.124.491.372.491.28 0 .596-.147.948-.444.224-.207.486-.471.786-.791s.455-.48.463-.48z"/><path d="m32.544 3.265c.008.008.012.021.012.041 0 .021-.032.07-.096.15-.864 1.049-1.465 1.943-1.801 2.688l-.107.313c-.048.088-.108.132-.181.132-.071 0-.151-.02-.239-.06-.089-.04-.133-.088-.133-.145 0-.136.133-.617.396-1.445s.396-1.45.396-1.866c0-.112-.027-.18-.084-.204-.056-.024-.111-.034-.168-.03-.056.004-.084-.014-.084-.054 0-.072.061-.108.181-.108.535 0 .804.22.804.66 0 .168-.192.82-.576 1.956.353-.552.692-1.027 1.021-1.428.326-.401.547-.6.659-.6zm.935-.121c0-.032-.021-.012-.06.06-.225.408-.425.9-.601 1.477-.176.575-.264.951-.264 1.127 0 .488.088.732.264.732.056 0 .13-.038.222-.114.093-.076.131-.113.114-.113.024 0 .036.031.036.096 0 .208-.12.312-.36.312-.239 0-.424-.105-.552-.317s-.191-.515-.191-.906.104-.91.312-1.554c.208-.645.408-.966.6-.966h.061c.28-.002.419.054.419.166z"/><path d="m34.883 1.704-.24.06c-.023 0-.036-.012-.036-.036 0-.064.048-.114.145-.15.096-.036.168-.054.216-.054.352 0 .528.2.528.6 0 .24-.072.544-.217.912.032.032.176.048.433.048.256 0 .456-.03.6-.09.145-.06.23-.09.258-.09s.042.012.042.036-.016.052-.048.084c-.376.321-.836.516-1.38.588-.048 0-.104.012-.168.035-.729 1.457-1.092 2.377-1.092 2.761 0 .128.048.192.144.192l.336-.072.013.012c0 .168-.133.252-.396.252-.352 0-.528-.188-.528-.563 0-.32.112-.765.337-1.333.127-.287.315-.727.563-1.319-.272-.112-.408-.269-.408-.468 0-.064.017-.108.048-.132.128.056.313.096.553.12.264-.584.396-.962.396-1.134-.003-.173-.036-.259-.099-.259z"/>
+		</symbol>
+		
+		<!-- Question in circle -->
+		<symbol id="question-in-circle-icon" viewBox="0 0 400 400">
+			<path d="m199.996 0c-110.277 0-199.996 89.72-199.996 200 0 110.279 89.719 200 199.996 200 110.285 0 200.004-89.721 200.004-200 0-110.28-89.719-200-200.004-200zm0 373.77c-95.809 0-173.766-77.954-173.766-173.77 0-95.817 77.957-173.769 173.766-173.769 95.816 0 173.772 77.953 173.772 173.769.001 95.816-77.956 173.77-173.772 173.77z"/><path d="m199.996 91.382c-35.176 0-63.789 28.616-63.789 63.793 0 7.243 5.871 13.115 13.113 13.115 7.246 0 13.117-5.873 13.117-13.115 0-20.71 16.848-37.562 37.559-37.562 20.719 0 37.566 16.852 37.566 37.562 0 20.714-16.849 37.566-37.566 37.566-7.242 0-13.113 5.873-13.113 13.114v45.684c0 7.243 5.871 13.115 13.113 13.115s13.117-5.872 13.117-13.115v-33.938c28.905-6.064 50.68-31.746 50.68-62.427 0-35.176-28.617-63.792-63.797-63.792z"/><path d="m200.004 273.738c-9.086 0-16.465 7.371-16.465 16.462s7.379 16.465 16.465 16.465c9.094 0 16.457-7.374 16.457-16.465s-7.363-16.462-16.457-16.462z"/>
+		</symbol>
+		
+		<!-- Left arrow -->
+		<symbol id="arrow-left-icon" viewBox="0 0 6.019 9.023">
+			<path d="m6.019 1.289-1.337-1.289-3.344 3.222-1.338 1.289 1.338 1.29v-.001l3.344 3.223 1.337-1.289-3.344-3.223z" />
+		</symbol>
+		
+		<!-- Right arrow -->
+		<symbol id="arrow-right-icon" viewBox="0 0 6.019 9.023">
+			<path d="m6.019 4.511-1.337-1.289h-.001l-3.343-3.222-1.338 1.289 3.344 3.222-3.344 3.223 1.338 1.289 3.343-3.223.001.001z" />
+		</symbol>
+		
+	</g>
+
+	<!-- Form icons -->
+	<g id="form-icons">
+
+		<!-- User -->
+		<symbol id="form-icon-user" viewBox="0 0 17 17">
+			<path d="m11.475 10.483c1.629-.992 2.692-2.763 2.692-4.817 0-3.117-2.55-5.666-5.667-5.666s-5.667 2.549-5.667 5.666c0 2.054 1.063 3.825 2.692 4.817-2.833 1.063-4.958 3.542-5.525 6.517h1.417c.708-3.258 3.613-5.667 7.083-5.667 3.471 0 6.375 2.409 7.083 5.667h1.417c-.567-3.046-2.692-5.525-5.525-6.517zm-7.225-4.817c0-2.337 1.912-4.25 4.25-4.25s4.25 1.913 4.25 4.25-1.913 4.251-4.25 4.251-4.25-1.913-4.25-4.251z" />
+		</symbol>
+				
+		<!-- Phone -->
+		<symbol id="form-icon-phone" viewBox="0 0 19 19">
+			<path d="m15.024 11.77c-.389-.405-.859-.621-1.357-.621-.494 0-.968.212-1.373.617l-1.269 1.262c-.104-.056-.209-.107-.309-.159-.145-.072-.281-.141-.398-.212-1.189-.754-2.269-1.738-3.305-3.008-.503-.634-.84-1.168-1.085-1.709.329-.301.635-.613.932-.915.112-.111.225-.228.337-.341.843-.843.843-1.933 0-2.775l-1.096-1.094c-.125-.124-.253-.253-.374-.381-.241-.248-.494-.505-.755-.746-.39-.384-.855-.589-1.345-.589s-.964.205-1.365.589c-.004.005-.004.005-.008.01l-1.366 1.374c-.514.514-.807 1.14-.872 1.865-.096 1.17.25 2.261.515 2.975.651 1.752 1.622 3.376 3.072 5.116 1.759 2.098 3.875 3.754 6.293 4.921.924.437 2.156.954 3.534 1.043.084.004.173.008.253.008.928 0 1.707-.333 2.317-.995.004-.008.012-.012.016-.02.209-.254.45-.482.703-.726.173-.164.349-.336.522-.518.398-.413.607-.893.607-1.387 0-.497-.213-.974-.618-1.376zm1.438 4.223c-.156.168-.317.32-.49.488-.261.25-.526.51-.775.803-.406.433-.883.638-1.51.638-.06 0-.124 0-.185-.005-1.193-.076-2.301-.54-3.132-.938-2.273-1.1-4.269-2.659-5.928-4.636-1.369-1.648-2.285-3.172-2.891-4.808-.373-.999-.51-1.777-.45-2.51.04-.469.221-.859.554-1.191l1.37-1.367c.197-.185.406-.286.61-.286.253 0 .458.152.586.281.004.005.008.008.012.012.245.23.478.466.723.719.125.127.253.255.382.388l1.096 1.095c.426.425.426.818 0 1.243-.116.117-.229.232-.345.344-.338.346-.659.666-1.008.98-.008.007-.016.011-.02.02-.345.345-.281.68-.209.91.004.011.008.024.012.036.285.69.687 1.339 1.297 2.114l.004.003c1.108 1.364 2.277 2.426 3.566 3.24.165.105.333.189.494.269.145.073.281.141.398.213.016.008.032.019.048.029.136.067.265.1.398.1.333 0 .542-.208.61-.277l1.373-1.371c.137-.137.353-.301.606-.301.249 0 .454.156.578.293.004.003.004.003.008.008l2.213 2.21c.415.408.415.828.005 1.254zm-3.422-10.038c.763.762 1.257 1.717 1.438 2.766.044.265.273.449.534.449.032 0 .06-.004.092-.008.297-.047.494-.329.446-.625-.217-1.272-.819-2.431-1.739-3.349-.92-.919-2.08-1.52-3.353-1.736-.297-.048-.574.148-.626.441-.053.293.14.578.437.627 1.053.176 2.008.673 2.771 1.435zm3.089-3.087c-1.518-1.516-3.426-2.503-5.522-2.86-.293-.052-.57.148-.623.442-.048.296.149.573.446.626 1.871.317 3.578 1.202 4.936 2.554 1.357 1.356 2.241 3.06 2.558 4.928.044.265.273.449.534.449.032 0 .06-.005.092-.008.293-.045.494-.325.442-.618-.357-2.093-1.345-3.997-2.863-5.513z" />
+		</symbol>
+		
+		<!-- Mail -->
+		<symbol id="form-icon-mail" viewBox="0 0 20 14.359">
+			<path d="m10 10.051-2.474-2.177-7.075 6.095c.257.241.604.39.987.39h17.124c.381 0 .727-.148.983-.39l-7.07-6.095zm9.548-9.662c-.257-.241-.603-.389-.986-.389h-17.124c-.38 0-.727.149-.984.392l9.546 8.223zm-19.548.872v11.929l6.904-5.896zm13.096 6.032 6.904 5.897v-11.934z" />
+		</symbol>
+		
+		<!-- Quote -->
+		<symbol id="form-icon-quote" viewBox="0 0 21 19.03">
+			<path d="m10.5 0c-5.799 0-10.5 3.864-10.5 8.628 0 2.257 1.055 4.313 2.781 5.851-.066 1.498-.363 3.513-1.413 4.552 2.005 0 4.059-1.381 5.277-2.375 1.194.387 2.494.601 3.855.601 5.799 0 10.5-3.864 10.5-8.629 0-4.764-4.701-8.628-10.5-8.628z" />
+		</symbol>
+	
+		<!-- Question -->
+		<symbol id="form-icon-question" viewBox="0 0 20 22.98">
+			<path d="m10 0c-5.523 0-10 4.493-10 10.036 0 3.792 2.095 7.088 5.184 8.796l-.118 4.148 4.718-2.918c.072.001.142.011.215.011 5.523 0 10-4.493 10-10.036.001-5.544-4.476-10.037-9.999-10.037zm-.448 16.073c-.893 0-1.501-.66-1.501-1.54 0-.899.623-1.542 1.501-1.542.912 0 1.503.643 1.518 1.542.001.878-.606 1.54-1.518 1.54zm2.04-6.299c-.623.695-.877 1.354-.859 2.118v.303h-2.244l-.017-.439c-.05-.862.236-1.744.997-2.657.538-.645.978-1.186.978-1.761 0-.592-.389-.982-1.233-1.014-.554 0-1.231.202-1.667.507l-.575-1.849c.608-.355 1.618-.691 2.816-.691 2.228 0 3.239 1.235 3.239 2.641-.001 1.284-.792 2.131-1.435 2.842z" />
+		</symbol>
+		
+		<!-- Doc -->
+		<symbol id="form-icon-doc" viewBox="0 0 14.996 19.002">
+			<path d="m14.2 4.701-3.655-3.86c-.392-.412-.907-.681-1.548-.804v6.297h5.963c-.116-.676-.37-1.22-.76-1.633zm-5.577 3.217c-.313 0-.578-.115-.797-.347-.219-.231-.328-.511-.328-.841v-6.73h-6.373c-.313 0-.578.115-.797.346s-.328.512-.328.842v16.627c0 .33.109.611.328.841.219.231.484.346.797.346h12.747c.312 0 .578-.115.796-.346.219-.231.328-.511.328-.841v-9.897z" />
+		</symbol>
+	
+	</g>
+	
+	<!-- Social icons -->
+	<g id="social-icons">
+	
+		<symbol id="social-icon-vk" viewBox="0 0 17.005 10.005">
+			<path d="m8.32 9.964h1.017s.307-.036.463-.209c.144-.161.14-.461.14-.461s-.02-1.406.613-1.613c.624-.205 1.425 1.36 2.275 1.961.642.455 1.131.355 1.131.355l2.27-.032s1.188-.076.625-1.04c-.046-.08-.328-.713-1.689-2.015-1.424-1.363-1.233-1.143.482-3.501 1.045-1.435 1.462-2.311 1.332-2.687-.125-.359-.893-.264-.893-.264l-2.558.017s-.189-.027-.33.059c-.137.085-.225.283-.225.283s-.405 1.112-.945 2.055c-1.139 1.996-1.594 2.1-1.78 1.977-.432-.289-.324-1.159-.324-1.779 0-1.932.284-2.738-.553-2.947-.278-.069-.483-.113-1.193-.121-.913-.01-1.685.003-2.122.223-.292.148-.516.476-.38.494.169.023.553.107.755.392.261.367.252 1.193.252 1.193s.152 2.274-.351 2.556c-.344.196-.817-.201-1.833-2.01-.519-.927-.911-1.951-.911-1.951s-.076-.19-.211-.293c-.165-.125-.394-.164-.394-.164l-2.429.015s-.365.012-.499.175c-.118.145-.009.446-.009.446s1.902 4.59 4.056 6.903c1.975 2.122 4.218 1.983 4.218 1.983zm0 0" />
+		</symbol>
+	
+	</g>
+	
+</defs>
+</svg>
+	
+	<!-- Inlcude jQuery framework from Google CDN or local copy + jQuery migrate -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script type="text/javascript">/* <![CDATA[ */ window.jQuery || document.write('<script src="http://am24.by/wp-content/themes/remont/js/jquery.js" type="text/javascript">\x3C/script>') /* ]]> */</script>
+	
+	
+	<!-- JS Scripts -->
+	<script type="text/javascript" src="http://am24.by/wp-content/themes/remont/js/plugins-all.js" ></script>
+	<script type="text/javascript" src="http://am24.by/wp-content/themes/remont/js/main.js" ></script>
+
+   
+		
+	<!--
+
+	Theme Name: Ремонт квартир в Минске
+	Author: "Magnificent"
+	Autor URI: http://magnificent.by/
+	Technical specialist: MopuC (SeaInside) | https://fl.ru/users/MopuC/
+	Date: 15.01.2019
+	Version: 1.0
+
+	-->
+	
+	<script async src="//files.jumpoutpopup.ru/4d1b30010e96ac0a2e6d.js"></script>
+
+</body>
+</html>
