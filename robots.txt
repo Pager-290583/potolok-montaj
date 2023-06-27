@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /ajax
+Disallow: /content
+Disallow: /css
+Disallow: README.md
+
+sitemap: https://мастер22.рф/sitemap.xml
